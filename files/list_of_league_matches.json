@@ -1,0 +1,7026 @@
+{
+	"result": {
+		"status": 1,
+		"num_results": 0,
+		"total_results": 335,
+		"results_remaining": 235,
+		"matches": [
+			{
+				"series_id": 3071,
+				"series_type": 1,
+				"match_id": 653018921,
+				"match_seq_num": 591981658,
+				"start_time": 1399743037,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 37494803,
+						"player_slot": 0,
+						"hero_id": 11
+					},
+					{
+						"account_id": 123010153,
+						"player_slot": 1,
+						"hero_id": 30
+					},
+					{
+						"account_id": 92847074,
+						"player_slot": 2,
+						"hero_id": 25
+					},
+					{
+						"account_id": 96581022,
+						"player_slot": 3,
+						"hero_id": 65
+					},
+					{
+						"account_id": 102465135,
+						"player_slot": 4,
+						"hero_id": 83
+					},
+					{
+						"account_id": 113847466,
+						"player_slot": 128,
+						"hero_id": 96
+					},
+					{
+						"account_id": 83924016,
+						"player_slot": 129,
+						"hero_id": 66
+					},
+					{
+						"account_id": 74836386,
+						"player_slot": 130,
+						"hero_id": 79
+					},
+					{
+						"account_id": 59323495,
+						"player_slot": 131,
+						"hero_id": 13
+					},
+					{
+						"account_id": 105003260,
+						"player_slot": 132,
+						"hero_id": 54
+					}
+				]
+				
+			},
+			{
+				"series_id": 3070,
+				"series_type": 1,
+				"match_id": 652909125,
+				"match_seq_num": 591897342,
+				"start_time": 1399739888,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 113847466,
+						"player_slot": 0,
+						"hero_id": 88
+					},
+					{
+						"account_id": 83924016,
+						"player_slot": 1,
+						"hero_id": 89
+					},
+					{
+						"account_id": 74836386,
+						"player_slot": 2,
+						"hero_id": 9
+					},
+					{
+						"account_id": 59323495,
+						"player_slot": 3,
+						"hero_id": 46
+					},
+					{
+						"account_id": 105003260,
+						"player_slot": 4,
+						"hero_id": 48
+					},
+					{
+						"account_id": 37494803,
+						"player_slot": 128,
+						"hero_id": 11
+					},
+					{
+						"account_id": 102465135,
+						"player_slot": 129,
+						"hero_id": 16
+					},
+					{
+						"account_id": 123010153,
+						"player_slot": 130,
+						"hero_id": 50
+					},
+					{
+						"account_id": 96581022,
+						"player_slot": 131,
+						"hero_id": 13
+					},
+					{
+						"account_id": 92847074,
+						"player_slot": 132,
+						"hero_id": 47
+					}
+				]
+				
+			},
+			{
+				"series_id": 3016,
+				"series_type": 1,
+				"match_id": 648097229,
+				"match_seq_num": 587802485,
+				"start_time": 1399496389,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 97589985,
+						"player_slot": 0,
+						"hero_id": 64
+					},
+					{
+						"account_id": 89937890,
+						"player_slot": 1,
+						"hero_id": 39
+					},
+					{
+						"account_id": 70957265,
+						"player_slot": 2,
+						"hero_id": 94
+					},
+					{
+						"account_id": 85165416,
+						"player_slot": 3,
+						"hero_id": 79
+					},
+					{
+						"account_id": 91980063,
+						"player_slot": 4,
+						"hero_id": 97
+					},
+					{
+						"account_id": 113847466,
+						"player_slot": 128,
+						"hero_id": 96
+					},
+					{
+						"account_id": 74836386,
+						"player_slot": 129,
+						"hero_id": 9
+					},
+					{
+						"account_id": 59323495,
+						"player_slot": 130,
+						"hero_id": 13
+					},
+					{
+						"account_id": 83924016,
+						"player_slot": 131,
+						"hero_id": 50
+					},
+					{
+						"account_id": 105003260,
+						"player_slot": 132,
+						"hero_id": 11
+					}
+				]
+				
+			},
+			{
+				"series_id": 3016,
+				"series_type": 1,
+				"match_id": 648138901,
+				"match_seq_num": 587830039,
+				"start_time": 1399499573,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 113847466,
+						"player_slot": 0,
+						"hero_id": 2
+					},
+					{
+						"account_id": 59323495,
+						"player_slot": 1,
+						"hero_id": 89
+					},
+					{
+						"account_id": 74836386,
+						"player_slot": 2,
+						"hero_id": 79
+					},
+					{
+						"account_id": 83924016,
+						"player_slot": 3,
+						"hero_id": 50
+					},
+					{
+						"account_id": 105003260,
+						"player_slot": 4,
+						"hero_id": 4
+					},
+					{
+						"account_id": 97589985,
+						"player_slot": 128,
+						"hero_id": 7
+					},
+					{
+						"account_id": 89937890,
+						"player_slot": 129,
+						"hero_id": 55
+					},
+					{
+						"account_id": 70957265,
+						"player_slot": 130,
+						"hero_id": 72
+					},
+					{
+						"account_id": 85165416,
+						"player_slot": 131,
+						"hero_id": 92
+					},
+					{
+						"account_id": 91980063,
+						"player_slot": 132,
+						"hero_id": 43
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 647954343,
+				"match_seq_num": 587666972,
+				"start_time": 1399487982,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 37494803,
+						"player_slot": 0,
+						"hero_id": 13
+					},
+					{
+						"account_id": 96581022,
+						"player_slot": 1,
+						"hero_id": 65
+					},
+					{
+						"account_id": 86025665,
+						"player_slot": 2,
+						"hero_id": 20
+					},
+					{
+						"account_id": 68991700,
+						"player_slot": 3,
+						"hero_id": 70
+					},
+					{
+						"account_id": 123010153,
+						"player_slot": 4,
+						"hero_id": 91
+					},
+					{
+						"account_id": 71282473,
+						"player_slot": 128,
+						"hero_id": 14
+					},
+					{
+						"account_id": 44856126,
+						"player_slot": 129,
+						"hero_id": 25
+					},
+					{
+						"account_id": 91421252,
+						"player_slot": 130,
+						"hero_id": 15
+					},
+					{
+						"account_id": 55974918,
+						"player_slot": 131,
+						"hero_id": 22
+					},
+					{
+						"account_id": 59801658,
+						"player_slot": 132,
+						"hero_id": 30
+					}
+				]
+				
+			},
+			{
+				"series_id": 3009,
+				"series_type": 1,
+				"match_id": 647731756,
+				"match_seq_num": 587505536,
+				"start_time": 1399479363,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 37494803,
+						"player_slot": 0,
+						"hero_id": 60
+					},
+					{
+						"account_id": 96581022,
+						"player_slot": 1,
+						"hero_id": 88
+					},
+					{
+						"account_id": 123010153,
+						"player_slot": 2,
+						"hero_id": 30
+					},
+					{
+						"account_id": 68991700,
+						"player_slot": 3,
+						"hero_id": 106
+					},
+					{
+						"account_id": 86025665,
+						"player_slot": 4,
+						"hero_id": 40
+					},
+					{
+						"account_id": 71282473,
+						"player_slot": 128,
+						"hero_id": 97
+					},
+					{
+						"account_id": 44856126,
+						"player_slot": 129,
+						"hero_id": 87
+					},
+					{
+						"account_id": 91421252,
+						"player_slot": 130,
+						"hero_id": 47
+					},
+					{
+						"account_id": 55974918,
+						"player_slot": 131,
+						"hero_id": 21
+					},
+					{
+						"account_id": 59801658,
+						"player_slot": 132,
+						"hero_id": 27
+					}
+				]
+				
+			},
+			{
+				"series_id": 3009,
+				"series_type": 1,
+				"match_id": 647803090,
+				"match_seq_num": 587575834,
+				"start_time": 1399481326,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 71282473,
+						"player_slot": 0,
+						"hero_id": 14
+					},
+					{
+						"account_id": 44856126,
+						"player_slot": 1,
+						"hero_id": 12
+					},
+					{
+						"account_id": 59801658,
+						"player_slot": 2,
+						"hero_id": 2
+					},
+					{
+						"account_id": 55974918,
+						"player_slot": 3,
+						"hero_id": 33
+					},
+					{
+						"account_id": 91421252,
+						"player_slot": 4,
+						"hero_id": 70
+					},
+					{
+						"account_id": 37494803,
+						"player_slot": 128,
+						"hero_id": 39
+					},
+					{
+						"account_id": 96581022,
+						"player_slot": 129,
+						"hero_id": 96
+					},
+					{
+						"account_id": 123010153,
+						"player_slot": 130,
+						"hero_id": 68
+					},
+					{
+						"account_id": 68991700,
+						"player_slot": 131,
+						"hero_id": 41
+					},
+					{
+						"account_id": 86025665,
+						"player_slot": 132,
+						"hero_id": 16
+					}
+				]
+				
+			},
+			{
+				"series_id": 2816,
+				"series_type": 2,
+				"match_id": 635842242,
+				"match_seq_num": 577532564,
+				"start_time": 1398880380,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 90646195,
+						"player_slot": 0,
+						"hero_id": 87
+					},
+					{
+						"account_id": 88278840,
+						"player_slot": 1,
+						"hero_id": 96
+					},
+					{
+						"account_id": 20603135,
+						"player_slot": 2,
+						"hero_id": 47
+					},
+					{
+						"account_id": 86788928,
+						"player_slot": 3,
+						"hero_id": 9
+					},
+					{
+						"account_id": 123583095,
+						"player_slot": 4,
+						"hero_id": 101
+					},
+					{
+						"account_id": 30165732,
+						"player_slot": 128,
+						"hero_id": 48
+					},
+					{
+						"account_id": 119180054,
+						"player_slot": 129,
+						"hero_id": 50
+					},
+					{
+						"account_id": 98782750,
+						"player_slot": 130,
+						"hero_id": 79
+					},
+					{
+						"account_id": 123244426,
+						"player_slot": 131,
+						"hero_id": 21
+					},
+					{
+						"account_id": 55649904,
+						"player_slot": 132,
+						"hero_id": 106
+					}
+				]
+				
+			},
+			{
+				"series_id": 2816,
+				"series_type": 2,
+				"match_id": 635931243,
+				"match_seq_num": 577599677,
+				"start_time": 1398883567,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 30165732,
+						"player_slot": 0,
+						"hero_id": 18
+					},
+					{
+						"account_id": 123244426,
+						"player_slot": 1,
+						"hero_id": 96
+					},
+					{
+						"account_id": 119180054,
+						"player_slot": 2,
+						"hero_id": 20
+					},
+					{
+						"account_id": 98782750,
+						"player_slot": 3,
+						"hero_id": 58
+					},
+					{
+						"account_id": 55649904,
+						"player_slot": 4,
+						"hero_id": 9
+					},
+					{
+						"account_id": 90646195,
+						"player_slot": 128,
+						"hero_id": 50
+					},
+					{
+						"account_id": 88278840,
+						"player_slot": 129,
+						"hero_id": 53
+					},
+					{
+						"account_id": 20603135,
+						"player_slot": 130,
+						"hero_id": 39
+					},
+					{
+						"account_id": 86788928,
+						"player_slot": 131,
+						"hero_id": 77
+					},
+					{
+						"account_id": 123583095,
+						"player_slot": 132,
+						"hero_id": 68
+					}
+				]
+				
+			},
+			{
+				"series_id": 2803,
+				"series_type": 1,
+				"match_id": 634257302,
+				"match_seq_num": 576215936,
+				"start_time": 1398800153,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 30165732,
+						"player_slot": 0,
+						"hero_id": 10
+					},
+					{
+						"account_id": 123244426,
+						"player_slot": 1,
+						"hero_id": 96
+					},
+					{
+						"account_id": 98782750,
+						"player_slot": 2,
+						"hero_id": 16
+					},
+					{
+						"account_id": 119180054,
+						"player_slot": 3,
+						"hero_id": 79
+					},
+					{
+						"account_id": 55649904,
+						"player_slot": 4,
+						"hero_id": 74
+					},
+					{
+						"account_id": 70249086,
+						"player_slot": 128,
+						"hero_id": 48
+					},
+					{
+						"account_id": 91399277,
+						"player_slot": 129,
+						"hero_id": 88
+					},
+					{
+						"account_id": 96810662,
+						"player_slot": 130,
+						"hero_id": 53
+					},
+					{
+						"account_id": 131763884,
+						"player_slot": 131,
+						"hero_id": 49
+					},
+					{
+						"account_id": 40435174,
+						"player_slot": 132,
+						"hero_id": 92
+					}
+				]
+				
+			},
+			{
+				"series_id": 2803,
+				"series_type": 1,
+				"match_id": 634307237,
+				"match_seq_num": 576270521,
+				"start_time": 1398802973,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 70249086,
+						"player_slot": 0,
+						"hero_id": 48
+					},
+					{
+						"account_id": 131763884,
+						"player_slot": 1,
+						"hero_id": 74
+					},
+					{
+						"account_id": 96810662,
+						"player_slot": 2,
+						"hero_id": 55
+					},
+					{
+						"account_id": 91399277,
+						"player_slot": 3,
+						"hero_id": 16
+					},
+					{
+						"account_id": 40435174,
+						"player_slot": 4,
+						"hero_id": 79
+					},
+					{
+						"account_id": 55649904,
+						"player_slot": 128,
+						"hero_id": 76
+					},
+					{
+						"account_id": 98782750,
+						"player_slot": 129,
+						"hero_id": 92
+					},
+					{
+						"account_id": 119180054,
+						"player_slot": 130,
+						"hero_id": 50
+					},
+					{
+						"account_id": 123244426,
+						"player_slot": 131,
+						"hero_id": 65
+					},
+					{
+						"account_id": 30165732,
+						"player_slot": 132,
+						"hero_id": 54
+					}
+				]
+				
+			},
+			{
+				"series_id": 2803,
+				"series_type": 1,
+				"match_id": 635738077,
+				"match_seq_num": 577445624,
+				"start_time": 1398876009,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 131763884,
+						"player_slot": 0,
+						"hero_id": 43
+					},
+					{
+						"account_id": 96810662,
+						"player_slot": 1,
+						"hero_id": 53
+					},
+					{
+						"account_id": 91399277,
+						"player_slot": 2,
+						"hero_id": 79
+					},
+					{
+						"account_id": 70249086,
+						"player_slot": 3,
+						"hero_id": 48
+					},
+					{
+						"account_id": 40435174,
+						"player_slot": 4,
+						"hero_id": 92
+					},
+					{
+						"account_id": 30165732,
+						"player_slot": 128,
+						"hero_id": 63
+					},
+					{
+						"account_id": 55649904,
+						"player_slot": 129,
+						"hero_id": 17
+					},
+					{
+						"account_id": 119180054,
+						"player_slot": 130,
+						"hero_id": 50
+					},
+					{
+						"account_id": 98782750,
+						"player_slot": 131,
+						"hero_id": 88
+					},
+					{
+						"account_id": 123244426,
+						"player_slot": 132,
+						"hero_id": 98
+					}
+				]
+				
+			},
+			{
+				"series_id": 2802,
+				"series_type": 1,
+				"match_id": 634010837,
+				"match_seq_num": 576035216,
+				"start_time": 1398789585,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 90646195,
+						"player_slot": 0,
+						"hero_id": 79
+					},
+					{
+						"account_id": 88278840,
+						"player_slot": 1,
+						"hero_id": 103
+					},
+					{
+						"account_id": 20603135,
+						"player_slot": 2,
+						"hero_id": 17
+					},
+					{
+						"account_id": 86790288,
+						"player_slot": 3,
+						"hero_id": 77
+					},
+					{
+						"account_id": 123583095,
+						"player_slot": 4,
+						"hero_id": 50
+					},
+					{
+						"account_id": 70249086,
+						"player_slot": 128,
+						"hero_id": 48
+					},
+					{
+						"account_id": 131763884,
+						"player_slot": 129,
+						"hero_id": 75
+					},
+					{
+						"account_id": 91399277,
+						"player_slot": 130,
+						"hero_id": 83
+					},
+					{
+						"account_id": 96810662,
+						"player_slot": 131,
+						"hero_id": 53
+					},
+					{
+						"account_id": 40435174,
+						"player_slot": 132,
+						"hero_id": 2
+					}
+				]
+				
+			},
+			{
+				"series_id": 2802,
+				"series_type": 1,
+				"match_id": 634119139,
+				"match_seq_num": 576091241,
+				"start_time": 1398793456,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 70249086,
+						"player_slot": 0,
+						"hero_id": 2
+					},
+					{
+						"account_id": 91399277,
+						"player_slot": 1,
+						"hero_id": 68
+					},
+					{
+						"account_id": 131763884,
+						"player_slot": 2,
+						"hero_id": 43
+					},
+					{
+						"account_id": 96810662,
+						"player_slot": 3,
+						"hero_id": 98
+					},
+					{
+						"account_id": 40435174,
+						"player_slot": 4,
+						"hero_id": 79
+					},
+					{
+						"account_id": 90646195,
+						"player_slot": 128,
+						"hero_id": 16
+					},
+					{
+						"account_id": 88278840,
+						"player_slot": 129,
+						"hero_id": 96
+					},
+					{
+						"account_id": 20603135,
+						"player_slot": 130,
+						"hero_id": 47
+					},
+					{
+						"account_id": 86788928,
+						"player_slot": 131,
+						"hero_id": 77
+					},
+					{
+						"account_id": 123583095,
+						"player_slot": 132,
+						"hero_id": 50
+					}
+				]
+				
+			},
+			{
+				"series_id": 2802,
+				"series_type": 1,
+				"match_id": 634171292,
+				"match_seq_num": 576141914,
+				"start_time": 1398795890,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 90646195,
+						"player_slot": 0,
+						"hero_id": 16
+					},
+					{
+						"account_id": 88278840,
+						"player_slot": 1,
+						"hero_id": 53
+					},
+					{
+						"account_id": 20603135,
+						"player_slot": 2,
+						"hero_id": 11
+					},
+					{
+						"account_id": 86788928,
+						"player_slot": 3,
+						"hero_id": 9
+					},
+					{
+						"account_id": 123583095,
+						"player_slot": 4,
+						"hero_id": 87
+					},
+					{
+						"account_id": 70249086,
+						"player_slot": 128,
+						"hero_id": 106
+					},
+					{
+						"account_id": 91399277,
+						"player_slot": 129,
+						"hero_id": 68
+					},
+					{
+						"account_id": 96810662,
+						"player_slot": 130,
+						"hero_id": 96
+					},
+					{
+						"account_id": 131763884,
+						"player_slot": 131,
+						"hero_id": 46
+					},
+					{
+						"account_id": 40435174,
+						"player_slot": 132,
+						"hero_id": 7
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 634085766,
+				"match_seq_num": 576083802,
+				"start_time": 1398792340,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 30165732,
+						"player_slot": 0,
+						"hero_id": 54
+					},
+					{
+						"account_id": 55649904,
+						"player_slot": 1,
+						"hero_id": 9
+					},
+					{
+						"account_id": 119180054,
+						"player_slot": 2,
+						"hero_id": 50
+					},
+					{
+						"account_id": 98782750,
+						"player_slot": 3,
+						"hero_id": 92
+					},
+					{
+						"account_id": 123244426,
+						"player_slot": 4,
+						"hero_id": 51
+					},
+					{
+						"account_id": 49274352,
+						"player_slot": 128,
+						"hero_id": 106
+					},
+					{
+						"account_id": 27227006,
+						"player_slot": 129,
+						"hero_id": 31
+					},
+					{
+						"account_id": 38414162,
+						"player_slot": 130,
+						"hero_id": 56
+					},
+					{
+						"account_id": 86169030,
+						"player_slot": 131,
+						"hero_id": 65
+					},
+					{
+						"account_id": 31447369,
+						"player_slot": 132,
+						"hero_id": 3
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 633987351,
+				"match_seq_num": 575982365,
+				"start_time": 1398788713,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 30165732,
+						"player_slot": 0,
+						"hero_id": 2
+					},
+					{
+						"account_id": 55649904,
+						"player_slot": 1,
+						"hero_id": 46
+					},
+					{
+						"account_id": 123244426,
+						"player_slot": 2,
+						"hero_id": 80
+					},
+					{
+						"account_id": 104112154,
+						"player_slot": 3,
+						"hero_id": 102
+					},
+					{
+						"account_id": 119180054,
+						"player_slot": 4,
+						"hero_id": 50
+					},
+					{
+						"account_id": 85697973,
+						"player_slot": 128,
+						"hero_id": 13
+					},
+					{
+						"account_id": 78105597,
+						"player_slot": 129,
+						"hero_id": 79
+					},
+					{
+						"account_id": 84638633,
+						"player_slot": 130,
+						"hero_id": 96
+					},
+					{
+						"account_id": 9299405,
+						"player_slot": 131,
+						"hero_id": 43
+					},
+					{
+						"account_id": 117719785,
+						"player_slot": 132,
+						"hero_id": 40
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 633975272,
+				"match_seq_num": 576008875,
+				"start_time": 1398788405,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 84708782,
+						"player_slot": 0,
+						"hero_id": 9
+					},
+					{
+						"account_id": 35395056,
+						"player_slot": 1,
+						"hero_id": 79
+					},
+					{
+						"account_id": 55521420,
+						"player_slot": 2,
+						"hero_id": 40
+					},
+					{
+						"account_id": 40515317,
+						"player_slot": 3,
+						"hero_id": 53
+					},
+					{
+						"account_id": 88980413,
+						"player_slot": 4,
+						"hero_id": 34
+					},
+					{
+						"account_id": 49274352,
+						"player_slot": 128,
+						"hero_id": 13
+					},
+					{
+						"account_id": 27227006,
+						"player_slot": 129,
+						"hero_id": 92
+					},
+					{
+						"account_id": 31447369,
+						"player_slot": 130,
+						"hero_id": 26
+					},
+					{
+						"account_id": 86169030,
+						"player_slot": 131,
+						"hero_id": 88
+					},
+					{
+						"account_id": 38414162,
+						"player_slot": 132,
+						"hero_id": 56
+					}
+				]
+				
+			},
+			{
+				"series_id": 2794,
+				"series_type": 1,
+				"match_id": 632592329,
+				"match_seq_num": 574858615,
+				"start_time": 1398710250,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 84708782,
+						"player_slot": 0,
+						"hero_id": 72
+					},
+					{
+						"account_id": 55521420,
+						"player_slot": 1,
+						"hero_id": 102
+					},
+					{
+						"account_id": 35395056,
+						"player_slot": 2,
+						"hero_id": 79
+					},
+					{
+						"account_id": 40515317,
+						"player_slot": 3,
+						"hero_id": 31
+					},
+					{
+						"account_id": 88980413,
+						"player_slot": 4,
+						"hero_id": 74
+					},
+					{
+						"account_id": 70249086,
+						"player_slot": 128,
+						"hero_id": 56
+					},
+					{
+						"account_id": 91399277,
+						"player_slot": 129,
+						"hero_id": 92
+					},
+					{
+						"account_id": 96810662,
+						"player_slot": 130,
+						"hero_id": 55
+					},
+					{
+						"account_id": 131763884,
+						"player_slot": 131,
+						"hero_id": 49
+					},
+					{
+						"account_id": 40435174,
+						"player_slot": 132,
+						"hero_id": 68
+					}
+				]
+				
+			},
+			{
+				"series_id": 2794,
+				"series_type": 1,
+				"match_id": 632695264,
+				"match_seq_num": 574922286,
+				"start_time": 1398715114,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 70249086,
+						"player_slot": 0,
+						"hero_id": 41
+					},
+					{
+						"account_id": 96810662,
+						"player_slot": 1,
+						"hero_id": 103
+					},
+					{
+						"account_id": 91399277,
+						"player_slot": 2,
+						"hero_id": 50
+					},
+					{
+						"account_id": 131763884,
+						"player_slot": 3,
+						"hero_id": 74
+					},
+					{
+						"account_id": 40435174,
+						"player_slot": 4,
+						"hero_id": 64
+					},
+					{
+						"account_id": 84708782,
+						"player_slot": 128,
+						"hero_id": 9
+					},
+					{
+						"account_id": 55521420,
+						"player_slot": 129,
+						"hero_id": 68
+					},
+					{
+						"account_id": 35395056,
+						"player_slot": 130,
+						"hero_id": 69
+					},
+					{
+						"account_id": 40515317,
+						"player_slot": 131,
+						"hero_id": 51
+					},
+					{
+						"account_id": 88980413,
+						"player_slot": 132,
+						"hero_id": 11
+					}
+				]
+				
+			},
+			{
+				"series_id": 2794,
+				"series_type": 1,
+				"match_id": 632761005,
+				"match_seq_num": 574954094,
+				"start_time": 1398719744,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 84708782,
+						"player_slot": 0,
+						"hero_id": 56
+					},
+					{
+						"account_id": 55521420,
+						"player_slot": 1,
+						"hero_id": 68
+					},
+					{
+						"account_id": 35395056,
+						"player_slot": 2,
+						"hero_id": 7
+					},
+					{
+						"account_id": 40515317,
+						"player_slot": 3,
+						"hero_id": 69
+					},
+					{
+						"account_id": 88980413,
+						"player_slot": 4,
+						"hero_id": 76
+					},
+					{
+						"account_id": 131763884,
+						"player_slot": 128,
+						"hero_id": 11
+					},
+					{
+						"account_id": 96810662,
+						"player_slot": 129,
+						"hero_id": 99
+					},
+					{
+						"account_id": 91399277,
+						"player_slot": 130,
+						"hero_id": 50
+					},
+					{
+						"account_id": 70249086,
+						"player_slot": 131,
+						"hero_id": 2
+					},
+					{
+						"account_id": 40435174,
+						"player_slot": 132,
+						"hero_id": 79
+					}
+				]
+				
+			},
+			{
+				"series_id": 2795,
+				"series_type": 1,
+				"match_id": 632690832,
+				"match_seq_num": 574898794,
+				"start_time": 1398714951,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 30165732,
+						"player_slot": 0,
+						"hero_id": 17
+					},
+					{
+						"account_id": 55649904,
+						"player_slot": 1,
+						"hero_id": 74
+					},
+					{
+						"account_id": 119180054,
+						"player_slot": 2,
+						"hero_id": 92
+					},
+					{
+						"account_id": 98782750,
+						"player_slot": 3,
+						"hero_id": 88
+					},
+					{
+						"account_id": 123244426,
+						"player_slot": 4,
+						"hero_id": 99
+					},
+					{
+						"account_id": 90646195,
+						"player_slot": 128,
+						"hero_id": 16
+					},
+					{
+						"account_id": 88278840,
+						"player_slot": 129,
+						"hero_id": 53
+					},
+					{
+						"account_id": 20603135,
+						"player_slot": 130,
+						"hero_id": 11
+					},
+					{
+						"account_id": 86788928,
+						"player_slot": 131,
+						"hero_id": 9
+					},
+					{
+						"account_id": 123583095,
+						"player_slot": 132,
+						"hero_id": 68
+					}
+				]
+				
+			},
+			{
+				"series_id": 2795,
+				"series_type": 1,
+				"match_id": 632738332,
+				"match_seq_num": 574942813,
+				"start_time": 1398718000,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 90646195,
+						"player_slot": 0,
+						"hero_id": 90
+					},
+					{
+						"account_id": 88278840,
+						"player_slot": 1,
+						"hero_id": 13
+					},
+					{
+						"account_id": 20603135,
+						"player_slot": 2,
+						"hero_id": 74
+					},
+					{
+						"account_id": 86788928,
+						"player_slot": 3,
+						"hero_id": 77
+					},
+					{
+						"account_id": 123583095,
+						"player_slot": 4,
+						"hero_id": 27
+					},
+					{
+						"account_id": 30165732,
+						"player_slot": 128,
+						"hero_id": 98
+					},
+					{
+						"account_id": 123244426,
+						"player_slot": 129,
+						"hero_id": 20
+					},
+					{
+						"account_id": 119180054,
+						"player_slot": 130,
+						"hero_id": 50
+					},
+					{
+						"account_id": 98782750,
+						"player_slot": 131,
+						"hero_id": 2
+					},
+					{
+						"account_id": 55649904,
+						"player_slot": 132,
+						"hero_id": 86
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 632674018,
+				"match_seq_num": 574898280,
+				"start_time": 1398713826,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 26677173,
+						"player_slot": 0,
+						"hero_id": 2
+					},
+					{
+						"account_id": 64444715,
+						"player_slot": 1,
+						"hero_id": 47
+					},
+					{
+						"account_id": 87673560,
+						"player_slot": 2,
+						"hero_id": 96
+					},
+					{
+						"account_id": 25503566,
+						"player_slot": 3,
+						"hero_id": 31
+					},
+					{
+						"account_id": 89336164,
+						"player_slot": 4,
+						"hero_id": 101
+					},
+					{
+						"account_id": 49274352,
+						"player_slot": 128,
+						"hero_id": 13
+					},
+					{
+						"account_id": 27227006,
+						"player_slot": 129,
+						"hero_id": 92
+					},
+					{
+						"account_id": 82302800,
+						"player_slot": 130,
+						"hero_id": 98
+					},
+					{
+						"account_id": 86169030,
+						"player_slot": 131,
+						"hero_id": 48
+					},
+					{
+						"account_id": 31447369,
+						"player_slot": 132,
+						"hero_id": 86
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 632617404,
+				"match_seq_num": 574857536,
+				"start_time": 1398711341,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 85697973,
+						"player_slot": 0,
+						"hero_id": 98
+					},
+					{
+						"account_id": 78105597,
+						"player_slot": 1,
+						"hero_id": 68
+					},
+					{
+						"account_id": 9299405,
+						"player_slot": 2,
+						"hero_id": 49
+					},
+					{
+						"account_id": 117719785,
+						"player_slot": 3,
+						"hero_id": 50
+					},
+					{
+						"account_id": 84638633,
+						"player_slot": 4,
+						"hero_id": 54
+					},
+					{
+						"account_id": 97589985,
+						"player_slot": 128,
+						"hero_id": 16
+					},
+					{
+						"account_id": 89937890,
+						"player_slot": 129,
+						"hero_id": 39
+					},
+					{
+						"account_id": 70957265,
+						"player_slot": 130,
+						"hero_id": 48
+					},
+					{
+						"account_id": 85165416,
+						"player_slot": 131,
+						"hero_id": 87
+					},
+					{
+						"account_id": 97804946,
+						"player_slot": 132,
+						"hero_id": 38
+					}
+				]
+				
+			},
+			{
+				"series_id": 2792,
+				"series_type": 1,
+				"match_id": 632399299,
+				"match_seq_num": 574686811,
+				"start_time": 1398702469,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 90646195,
+						"player_slot": 0,
+						"hero_id": 89
+					},
+					{
+						"account_id": 88278840,
+						"player_slot": 1,
+						"hero_id": 80
+					},
+					{
+						"account_id": 20603135,
+						"player_slot": 2,
+						"hero_id": 13
+					},
+					{
+						"account_id": 86788928,
+						"player_slot": 3,
+						"hero_id": 9
+					},
+					{
+						"account_id": 123583095,
+						"player_slot": 4,
+						"hero_id": 3
+					},
+					{
+						"account_id": 26677173,
+						"player_slot": 128,
+						"hero_id": 2
+					},
+					{
+						"account_id": 64444715,
+						"player_slot": 129,
+						"hero_id": 47
+					},
+					{
+						"account_id": 89336164,
+						"player_slot": 130,
+						"hero_id": 31
+					},
+					{
+						"account_id": 92847074,
+						"player_slot": 131,
+						"hero_id": 51
+					},
+					{
+						"account_id": 25503566,
+						"player_slot": 132,
+						"hero_id": 88
+					}
+				]
+				
+			},
+			{
+				"series_id": 2792,
+				"series_type": 1,
+				"match_id": 632522466,
+				"match_seq_num": 574773625,
+				"start_time": 1398707236,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 26677173,
+						"player_slot": 0,
+						"hero_id": 2
+					},
+					{
+						"account_id": 64444715,
+						"player_slot": 1,
+						"hero_id": 96
+					},
+					{
+						"account_id": 89336164,
+						"player_slot": 2,
+						"hero_id": 27
+					},
+					{
+						"account_id": 92847074,
+						"player_slot": 3,
+						"hero_id": 70
+					},
+					{
+						"account_id": 25503566,
+						"player_slot": 4,
+						"hero_id": 50
+					},
+					{
+						"account_id": 90646195,
+						"player_slot": 128,
+						"hero_id": 26
+					},
+					{
+						"account_id": 88278840,
+						"player_slot": 129,
+						"hero_id": 103
+					},
+					{
+						"account_id": 20603135,
+						"player_slot": 130,
+						"hero_id": 89
+					},
+					{
+						"account_id": 86788928,
+						"player_slot": 131,
+						"hero_id": 77
+					},
+					{
+						"account_id": 123583095,
+						"player_slot": 132,
+						"hero_id": 40
+					}
+				]
+				
+			},
+			{
+				"series_id": 2792,
+				"series_type": 1,
+				"match_id": 632601707,
+				"match_seq_num": 574829129,
+				"start_time": 1398710537,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 90646195,
+						"player_slot": 0,
+						"hero_id": 88
+					},
+					{
+						"account_id": 88278840,
+						"player_slot": 1,
+						"hero_id": 63
+					},
+					{
+						"account_id": 20603135,
+						"player_slot": 2,
+						"hero_id": 47
+					},
+					{
+						"account_id": 86788928,
+						"player_slot": 3,
+						"hero_id": 106
+					},
+					{
+						"account_id": 123583095,
+						"player_slot": 4,
+						"hero_id": 92
+					},
+					{
+						"account_id": 26677173,
+						"player_slot": 128,
+						"hero_id": 54
+					},
+					{
+						"account_id": 64444715,
+						"player_slot": 129,
+						"hero_id": 46
+					},
+					{
+						"account_id": 89336164,
+						"player_slot": 130,
+						"hero_id": 87
+					},
+					{
+						"account_id": 92847074,
+						"player_slot": 131,
+						"hero_id": 53
+					},
+					{
+						"account_id": 25503566,
+						"player_slot": 132,
+						"hero_id": 16
+					}
+				]
+				
+			},
+			{
+				"series_id": 2789,
+				"series_type": 1,
+				"match_id": 632385005,
+				"match_seq_num": 574653872,
+				"start_time": 1398701938,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 30165732,
+						"player_slot": 0,
+						"hero_id": 54
+					},
+					{
+						"account_id": 123244426,
+						"player_slot": 1,
+						"hero_id": 65
+					},
+					{
+						"account_id": 98782750,
+						"player_slot": 2,
+						"hero_id": 16
+					},
+					{
+						"account_id": 119180054,
+						"player_slot": 3,
+						"hero_id": 92
+					},
+					{
+						"account_id": 91398950,
+						"player_slot": 4,
+						"hero_id": 46
+					},
+					{
+						"account_id": 31447369,
+						"player_slot": 128,
+						"hero_id": 68
+					},
+					{
+						"account_id": 38414162,
+						"player_slot": 129,
+						"hero_id": 10
+					},
+					{
+						"account_id": 27227006,
+						"player_slot": 130,
+						"hero_id": 79
+					},
+					{
+						"account_id": 86169030,
+						"player_slot": 131,
+						"hero_id": 88
+					},
+					{
+						"account_id": 49274352,
+						"player_slot": 132,
+						"hero_id": 74
+					}
+				]
+				
+			},
+			{
+				"series_id": 2789,
+				"series_type": 1,
+				"match_id": 632473301,
+				"match_seq_num": 574723582,
+				"start_time": 1398705323,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 31447369,
+						"player_slot": 0,
+						"hero_id": 27
+					},
+					{
+						"account_id": 82302800,
+						"player_slot": 1,
+						"hero_id": 97
+					},
+					{
+						"account_id": 27227006,
+						"player_slot": 2,
+						"hero_id": 92
+					},
+					{
+						"account_id": 86169030,
+						"player_slot": 3,
+						"hero_id": 54
+					},
+					{
+						"account_id": 49274352,
+						"player_slot": 4,
+						"hero_id": 39
+					},
+					{
+						"account_id": 30165732,
+						"player_slot": 128,
+						"hero_id": 72
+					},
+					{
+						"account_id": 123244426,
+						"player_slot": 129,
+						"hero_id": 68
+					},
+					{
+						"account_id": 119180054,
+						"player_slot": 130,
+						"hero_id": 31
+					},
+					{
+						"account_id": 98782750,
+						"player_slot": 131,
+						"hero_id": 96
+					},
+					{
+						"account_id": 91398950,
+						"player_slot": 132,
+						"hero_id": 11
+					}
+				]
+				
+			},
+			{
+				"series_id": 2790,
+				"series_type": 1,
+				"match_id": 632412530,
+				"match_seq_num": 574657194,
+				"start_time": 1398702356,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 97589985,
+						"player_slot": 0,
+						"hero_id": 7
+					},
+					{
+						"account_id": 97804946,
+						"player_slot": 1,
+						"hero_id": 96
+					},
+					{
+						"account_id": 70957265,
+						"player_slot": 2,
+						"hero_id": 63
+					},
+					{
+						"account_id": 85165416,
+						"player_slot": 3,
+						"hero_id": 101
+					},
+					{
+						"account_id": 89937890,
+						"player_slot": 4,
+						"hero_id": 46
+					},
+					{
+						"account_id": 84708782,
+						"player_slot": 128,
+						"hero_id": 9
+					},
+					{
+						"account_id": 35395056,
+						"player_slot": 129,
+						"hero_id": 86
+					},
+					{
+						"account_id": 55521420,
+						"player_slot": 130,
+						"hero_id": 30
+					},
+					{
+						"account_id": 40515317,
+						"player_slot": 131,
+						"hero_id": 51
+					},
+					{
+						"account_id": 88980413,
+						"player_slot": 132,
+						"hero_id": 17
+					}
+				]
+				
+			},
+			{
+				"series_id": 2790,
+				"series_type": 1,
+				"match_id": 632470726,
+				"match_seq_num": 574708081,
+				"start_time": 1398704865,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 84708782,
+						"player_slot": 0,
+						"hero_id": 45
+					},
+					{
+						"account_id": 35395056,
+						"player_slot": 1,
+						"hero_id": 79
+					},
+					{
+						"account_id": 55521420,
+						"player_slot": 2,
+						"hero_id": 52
+					},
+					{
+						"account_id": 40515317,
+						"player_slot": 3,
+						"hero_id": 53
+					},
+					{
+						"account_id": 88980413,
+						"player_slot": 4,
+						"hero_id": 74
+					},
+					{
+						"account_id": 97589985,
+						"player_slot": 128,
+						"hero_id": 100
+					},
+					{
+						"account_id": 89937890,
+						"player_slot": 129,
+						"hero_id": 93
+					},
+					{
+						"account_id": 70957265,
+						"player_slot": 130,
+						"hero_id": 48
+					},
+					{
+						"account_id": 85165416,
+						"player_slot": 131,
+						"hero_id": 90
+					},
+					{
+						"account_id": 97804946,
+						"player_slot": 132,
+						"hero_id": 3
+					}
+				]
+				
+			},
+			{
+				"series_id": 2788,
+				"series_type": 1,
+				"match_id": 632402557,
+				"match_seq_num": 574653437,
+				"start_time": 1398702682,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 70249086,
+						"player_slot": 0,
+						"hero_id": 48
+					},
+					{
+						"account_id": 91399277,
+						"player_slot": 1,
+						"hero_id": 92
+					},
+					{
+						"account_id": 96810662,
+						"player_slot": 2,
+						"hero_id": 98
+					},
+					{
+						"account_id": 131763884,
+						"player_slot": 3,
+						"hero_id": 17
+					},
+					{
+						"account_id": 40435174,
+						"player_slot": 4,
+						"hero_id": 68
+					},
+					{
+						"account_id": 85697973,
+						"player_slot": 128,
+						"hero_id": 96
+					},
+					{
+						"account_id": 78105597,
+						"player_slot": 129,
+						"hero_id": 30
+					},
+					{
+						"account_id": 9299405,
+						"player_slot": 130,
+						"hero_id": 34
+					},
+					{
+						"account_id": 84638633,
+						"player_slot": 131,
+						"hero_id": 41
+					},
+					{
+						"account_id": 117719785,
+						"player_slot": 132,
+						"hero_id": 31
+					}
+				]
+				
+			},
+			{
+				"series_id": 2788,
+				"series_type": 1,
+				"match_id": 632467892,
+				"match_seq_num": 574730199,
+				"start_time": 1398705079,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 85697973,
+						"player_slot": 0,
+						"hero_id": 13
+					},
+					{
+						"account_id": 78105597,
+						"player_slot": 1,
+						"hero_id": 84
+					},
+					{
+						"account_id": 9299405,
+						"player_slot": 2,
+						"hero_id": 106
+					},
+					{
+						"account_id": 84638633,
+						"player_slot": 3,
+						"hero_id": 69
+					},
+					{
+						"account_id": 117719785,
+						"player_slot": 4,
+						"hero_id": 40
+					},
+					{
+						"account_id": 70249086,
+						"player_slot": 128,
+						"hero_id": 54
+					},
+					{
+						"account_id": 96810662,
+						"player_slot": 129,
+						"hero_id": 65
+					},
+					{
+						"account_id": 91399277,
+						"player_slot": 130,
+						"hero_id": 50
+					},
+					{
+						"account_id": 131763884,
+						"player_slot": 131,
+						"hero_id": 39
+					},
+					{
+						"account_id": 40435174,
+						"player_slot": 132,
+						"hero_id": 88
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 631213663,
+				"match_seq_num": 573647690,
+				"start_time": 1398634764,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 55584590,
+						"player_slot": 0,
+						"hero_id": 87
+					},
+					{
+						"account_id": 59875796,
+						"player_slot": 1,
+						"hero_id": 59
+					},
+					{
+						"account_id": 91399277,
+						"player_slot": 2,
+						"hero_id": 91
+					},
+					{
+						"account_id": 119453169,
+						"player_slot": 3,
+						"hero_id": 11
+					},
+					{
+						"account_id": 122561720,
+						"player_slot": 4,
+						"hero_id": 52
+					},
+					{
+						"account_id": 97795495,
+						"player_slot": 128,
+						"hero_id": 68
+					},
+					{
+						"account_id": 116288940,
+						"player_slot": 129,
+						"hero_id": 9
+					},
+					{
+						"account_id": 13609458,
+						"player_slot": 130,
+						"hero_id": 70
+					},
+					{
+						"account_id": 103361409,
+						"player_slot": 131,
+						"hero_id": 17
+					},
+					{
+						"account_id": 90723487,
+						"player_slot": 132,
+						"hero_id": 83
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 631097306,
+				"match_seq_num": 573556844,
+				"start_time": 1398627773,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 115871717,
+						"player_slot": 0,
+						"hero_id": 37
+					},
+					{
+						"account_id": 112903954,
+						"player_slot": 1,
+						"hero_id": 4
+					},
+					{
+						"account_id": 62374835,
+						"player_slot": 2,
+						"hero_id": 55
+					},
+					{
+						"account_id": 156652913,
+						"player_slot": 3,
+						"hero_id": 72
+					},
+					{
+						"account_id": 82791487,
+						"player_slot": 4,
+						"hero_id": 57
+					},
+					{
+						"account_id": 103361409,
+						"player_slot": 128,
+						"hero_id": 106
+					},
+					{
+						"account_id": 29366994,
+						"player_slot": 129,
+						"hero_id": 86
+					},
+					{
+						"account_id": 91449910,
+						"player_slot": 130,
+						"hero_id": 83
+					},
+					{
+						"account_id": 107757576,
+						"player_slot": 131,
+						"hero_id": 74
+					},
+					{
+						"account_id": 75257735,
+						"player_slot": 132,
+						"hero_id": 48
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 631091836,
+				"match_seq_num": 573574963,
+				"start_time": 1398627686,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 49050025,
+						"player_slot": 0,
+						"hero_id": 51
+					},
+					{
+						"account_id": 81852416,
+						"player_slot": 1,
+						"hero_id": 85
+					},
+					{
+						"account_id": 115481430,
+						"player_slot": 2,
+						"hero_id": 74
+					},
+					{
+						"account_id": 100269768,
+						"player_slot": 3,
+						"hero_id": 45
+					},
+					{
+						"account_id": 118601438,
+						"player_slot": 4,
+						"hero_id": 99
+					},
+					{
+						"account_id": 31447369,
+						"player_slot": 128,
+						"hero_id": 16
+					},
+					{
+						"account_id": 86169030,
+						"player_slot": 129,
+						"hero_id": 6
+					},
+					{
+						"account_id": 82302800,
+						"player_slot": 130,
+						"hero_id": 53
+					},
+					{
+						"account_id": 27227006,
+						"player_slot": 131,
+						"hero_id": 92
+					},
+					{
+						"account_id": 49274352,
+						"player_slot": 132,
+						"hero_id": 78
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 631085444,
+				"match_seq_num": 573565868,
+				"start_time": 1398627035,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 66848598,
+						"player_slot": 0,
+						"hero_id": 42
+					},
+					{
+						"account_id": 129347497,
+						"player_slot": 1,
+						"hero_id": 5
+					},
+					{
+						"account_id": 127148127,
+						"player_slot": 2,
+						"hero_id": 29
+					},
+					{
+						"account_id": 83536975,
+						"player_slot": 3,
+						"hero_id": 103
+					},
+					{
+						"account_id": 38960252,
+						"player_slot": 4,
+						"hero_id": 74
+					},
+					{
+						"account_id": 110458449,
+						"player_slot": 128,
+						"hero_id": 46
+					},
+					{
+						"account_id": 117671227,
+						"player_slot": 129,
+						"hero_id": 16
+					},
+					{
+						"account_id": 109063330,
+						"player_slot": 130,
+						"hero_id": 9
+					},
+					{
+						"account_id": 65055068,
+						"player_slot": 131,
+						"hero_id": 77
+					},
+					{
+						"account_id": 41816052,
+						"player_slot": 132,
+						"hero_id": 31
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 631029926,
+				"match_seq_num": 573499902,
+				"start_time": 1398624782,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 152508853,
+						"player_slot": 0,
+						"hero_id": 30
+					},
+					{
+						"account_id": 99189257,
+						"player_slot": 1,
+						"hero_id": 9
+					},
+					{
+						"account_id": 27816629,
+						"player_slot": 2,
+						"hero_id": 50
+					},
+					{
+						"account_id": 117622311,
+						"player_slot": 3,
+						"hero_id": 47
+					},
+					{
+						"account_id": 118349510,
+						"player_slot": 4,
+						"hero_id": 65
+					},
+					{
+						"account_id": 31447369,
+						"player_slot": 128,
+						"hero_id": 88
+					},
+					{
+						"account_id": 86169030,
+						"player_slot": 129,
+						"hero_id": 10
+					},
+					{
+						"account_id": 82302800,
+						"player_slot": 130,
+						"hero_id": 13
+					},
+					{
+						"account_id": 27227006,
+						"player_slot": 131,
+						"hero_id": 92
+					},
+					{
+						"account_id": 49274352,
+						"player_slot": 132,
+						"hero_id": 11
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 631007456,
+				"match_seq_num": 573483382,
+				"start_time": 1398623592,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 48499890,
+						"player_slot": 0,
+						"hero_id": 41
+					},
+					{
+						"account_id": 109818586,
+						"player_slot": 1,
+						"hero_id": 40
+					},
+					{
+						"account_id": 42263413,
+						"player_slot": 2,
+						"hero_id": 9
+					},
+					{
+						"account_id": 109796897,
+						"player_slot": 3,
+						"hero_id": 99
+					},
+					{
+						"account_id": 101632959,
+						"player_slot": 4,
+						"hero_id": 43
+					},
+					{
+						"account_id": 89327623,
+						"player_slot": 128,
+						"hero_id": 54
+					},
+					{
+						"account_id": 173427091,
+						"player_slot": 129,
+						"hero_id": 50
+					},
+					{
+						"account_id": 96670860,
+						"player_slot": 130,
+						"hero_id": 86
+					},
+					{
+						"account_id": 91458313,
+						"player_slot": 131,
+						"hero_id": 89
+					},
+					{
+						"account_id": 101492698,
+						"player_slot": 132,
+						"hero_id": 96
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 631005789,
+				"match_seq_num": 573488708,
+				"start_time": 1398623683,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 145324271,
+						"player_slot": 0,
+						"hero_id": 68
+					},
+					{
+						"account_id": 18191898,
+						"player_slot": 1,
+						"hero_id": 13
+					},
+					{
+						"account_id": 65459132,
+						"player_slot": 2,
+						"hero_id": 63
+					},
+					{
+						"account_id": 113926953,
+						"player_slot": 3,
+						"hero_id": 74
+					},
+					{
+						"account_id": 101765164,
+						"player_slot": 4,
+						"hero_id": 27
+					},
+					{
+						"account_id": 62374835,
+						"player_slot": 128,
+						"hero_id": 11
+					},
+					{
+						"account_id": 112903954,
+						"player_slot": 129,
+						"hero_id": 2
+					},
+					{
+						"account_id": 25036601,
+						"player_slot": 130,
+						"hero_id": 93
+					},
+					{
+						"account_id": 115871717,
+						"player_slot": 131,
+						"hero_id": 5
+					},
+					{
+						"account_id": 156652913,
+						"player_slot": 132,
+						"hero_id": 96
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 630901483,
+				"match_seq_num": 573449808,
+				"start_time": 1398619729,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 131284339,
+						"player_slot": 0,
+						"hero_id": 87
+					},
+					{
+						"account_id": 123116891,
+						"player_slot": 1,
+						"hero_id": 28
+					},
+					{
+						"account_id": 117588602,
+						"player_slot": 2,
+						"hero_id": 30
+					},
+					{
+						"account_id": 83455357,
+						"player_slot": 3,
+						"hero_id": 74
+					},
+					{
+						"account_id": 141938502,
+						"player_slot": 4,
+						"hero_id": 81
+					},
+					{
+						"account_id": 147788762,
+						"player_slot": 128,
+						"hero_id": 86
+					},
+					{
+						"account_id": 78439262,
+						"player_slot": 129,
+						"hero_id": 96
+					},
+					{
+						"account_id": 137487294,
+						"player_slot": 130,
+						"hero_id": 48
+					},
+					{
+						"account_id": 111322720,
+						"player_slot": 131,
+						"hero_id": 49
+					},
+					{
+						"account_id": 133238619,
+						"player_slot": 132,
+						"hero_id": 50
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 630888073,
+				"match_seq_num": 573455077,
+				"start_time": 1398619149,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 118349510,
+						"player_slot": 0,
+						"hero_id": 99
+					},
+					{
+						"account_id": 99189257,
+						"player_slot": 1,
+						"hero_id": 9
+					},
+					{
+						"account_id": 27816629,
+						"player_slot": 2,
+						"hero_id": 50
+					},
+					{
+						"account_id": 117622311,
+						"player_slot": 3,
+						"hero_id": 13
+					},
+					{
+						"account_id": 152508853,
+						"player_slot": 4,
+						"hero_id": 68
+					},
+					{
+						"account_id": 97589985,
+						"player_slot": 128,
+						"hero_id": 86
+					},
+					{
+						"account_id": 89937890,
+						"player_slot": 129,
+						"hero_id": 2
+					},
+					{
+						"account_id": 70957265,
+						"player_slot": 130,
+						"hero_id": 63
+					},
+					{
+						"account_id": 85165416,
+						"player_slot": 131,
+						"hero_id": 92
+					},
+					{
+						"account_id": 91980063,
+						"player_slot": 132,
+						"hero_id": 97
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 630879929,
+				"match_seq_num": 573416546,
+				"start_time": 1398618737,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 145324271,
+						"player_slot": 0,
+						"hero_id": 88
+					},
+					{
+						"account_id": 18191898,
+						"player_slot": 1,
+						"hero_id": 31
+					},
+					{
+						"account_id": 65459132,
+						"player_slot": 2,
+						"hero_id": 72
+					},
+					{
+						"account_id": 113926953,
+						"player_slot": 3,
+						"hero_id": 47
+					},
+					{
+						"account_id": 101765164,
+						"player_slot": 4,
+						"hero_id": 86
+					},
+					{
+						"account_id": 89327623,
+						"player_slot": 128,
+						"hero_id": 48
+					},
+					{
+						"account_id": 125352379,
+						"player_slot": 129,
+						"hero_id": 11
+					},
+					{
+						"account_id": 96670860,
+						"player_slot": 130,
+						"hero_id": 83
+					},
+					{
+						"account_id": 91458313,
+						"player_slot": 131,
+						"hero_id": 27
+					},
+					{
+						"account_id": 101492698,
+						"player_slot": 132,
+						"hero_id": 65
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 630868290,
+				"match_seq_num": 573383776,
+				"start_time": 1398618396,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 115871717,
+						"player_slot": 0,
+						"hero_id": 29
+					},
+					{
+						"account_id": 62374835,
+						"player_slot": 1,
+						"hero_id": 63
+					},
+					{
+						"account_id": 156652913,
+						"player_slot": 2,
+						"hero_id": 39
+					},
+					{
+						"account_id": 25036601,
+						"player_slot": 3,
+						"hero_id": 27
+					},
+					{
+						"account_id": 25385174,
+						"player_slot": 4,
+						"hero_id": 2
+					},
+					{
+						"account_id": 131763884,
+						"player_slot": 128,
+						"hero_id": 74
+					},
+					{
+						"account_id": 70249086,
+						"player_slot": 129,
+						"hero_id": 11
+					},
+					{
+						"account_id": 96810662,
+						"player_slot": 130,
+						"hero_id": 55
+					},
+					{
+						"account_id": 105984172,
+						"player_slot": 131,
+						"hero_id": 26
+					},
+					{
+						"account_id": 40435174,
+						"player_slot": 132,
+						"hero_id": 68
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 630788265,
+				"match_seq_num": 573303568,
+				"start_time": 1398615412,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 87604913,
+						"player_slot": 0,
+						"hero_id": 29
+					},
+					{
+						"account_id": 93844582,
+						"player_slot": 1,
+						"hero_id": 66
+					},
+					{
+						"account_id": 96433579,
+						"player_slot": 2,
+						"hero_id": 50
+					},
+					{
+						"account_id": 59839587,
+						"player_slot": 3,
+						"hero_id": 35
+					},
+					{
+						"account_id": 55974918,
+						"player_slot": 4,
+						"hero_id": 77
+					},
+					{
+						"account_id": 89327623,
+						"player_slot": 128,
+						"hero_id": 9
+					},
+					{
+						"account_id": 125352379,
+						"player_slot": 129,
+						"hero_id": 11
+					},
+					{
+						"account_id": 96670860,
+						"player_slot": 130,
+						"hero_id": 83
+					},
+					{
+						"account_id": 173427091,
+						"player_slot": 131,
+						"hero_id": 31
+					},
+					{
+						"account_id": 101492698,
+						"player_slot": 132,
+						"hero_id": 96
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 630580324,
+				"match_seq_num": 573145740,
+				"start_time": 1398608702,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 81852416,
+						"player_slot": 0,
+						"hero_id": 85
+					},
+					{
+						"account_id": 115481430,
+						"player_slot": 1,
+						"hero_id": 13
+					},
+					{
+						"account_id": 118601438,
+						"player_slot": 2,
+						"hero_id": 67
+					},
+					{
+						"account_id": 100269768,
+						"player_slot": 3,
+						"hero_id": 40
+					},
+					{
+						"account_id": 81826133,
+						"player_slot": 4,
+						"hero_id": 68
+					},
+					{
+						"account_id": 97589985,
+						"player_slot": 128,
+						"hero_id": 16
+					},
+					{
+						"account_id": 89937890,
+						"player_slot": 129,
+						"hero_id": 93
+					},
+					{
+						"account_id": 70957265,
+						"player_slot": 130,
+						"hero_id": 99
+					},
+					{
+						"account_id": 85165416,
+						"player_slot": 131,
+						"hero_id": 95
+					},
+					{
+						"account_id": 91980063,
+						"player_slot": 132,
+						"hero_id": 11
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 630453064,
+				"match_seq_num": 573054668,
+				"start_time": 1398604781,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 115481430,
+						"player_slot": 0,
+						"hero_id": 23
+					},
+					{
+						"account_id": 118601438,
+						"player_slot": 1,
+						"hero_id": 99
+					},
+					{
+						"account_id": 81852416,
+						"player_slot": 2,
+						"hero_id": 65
+					},
+					{
+						"account_id": 100269768,
+						"player_slot": 3,
+						"hero_id": 45
+					},
+					{
+						"account_id": 81826133,
+						"player_slot": 4,
+						"hero_id": 27
+					},
+					{
+						"account_id": 97589985,
+						"player_slot": 128,
+						"hero_id": 16
+					},
+					{
+						"account_id": 89937890,
+						"player_slot": 129,
+						"hero_id": 13
+					},
+					{
+						"account_id": 70957265,
+						"player_slot": 130,
+						"hero_id": 72
+					},
+					{
+						"account_id": 85165416,
+						"player_slot": 131,
+						"hero_id": 101
+					},
+					{
+						"account_id": 91980063,
+						"player_slot": 132,
+						"hero_id": 43
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 629234094,
+				"match_seq_num": 572018923,
+				"start_time": 1398545245,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 89327623,
+						"player_slot": 0,
+						"hero_id": 28
+					},
+					{
+						"account_id": 125352379,
+						"player_slot": 1,
+						"hero_id": 11
+					},
+					{
+						"account_id": 96670860,
+						"player_slot": 2,
+						"hero_id": 79
+					},
+					{
+						"account_id": 86817524,
+						"player_slot": 3,
+						"hero_id": 50
+					},
+					{
+						"account_id": 101492698,
+						"player_slot": 4,
+						"hero_id": 96
+					},
+					{
+						"account_id": 97589985,
+						"player_slot": 128,
+						"hero_id": 7
+					},
+					{
+						"account_id": 89937890,
+						"player_slot": 129,
+						"hero_id": 39
+					},
+					{
+						"account_id": 70957265,
+						"player_slot": 130,
+						"hero_id": 63
+					},
+					{
+						"account_id": 85165416,
+						"player_slot": 131,
+						"hero_id": 31
+					},
+					{
+						"account_id": 91980063,
+						"player_slot": 132,
+						"hero_id": 97
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 629157929,
+				"match_seq_num": 571943887,
+				"start_time": 1398541908,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 124234115,
+						"player_slot": 0,
+						"hero_id": 12
+					},
+					{
+						"account_id": 83788626,
+						"player_slot": 1,
+						"hero_id": 49
+					},
+					{
+						"account_id": 77592742,
+						"player_slot": 2,
+						"hero_id": 65
+					},
+					{
+						"account_id": 158200755,
+						"player_slot": 3,
+						"hero_id": 16
+					},
+					{
+						"account_id": 105103479,
+						"player_slot": 4,
+						"hero_id": 90
+					},
+					{
+						"account_id": 97589985,
+						"player_slot": 128,
+						"hero_id": 88
+					},
+					{
+						"account_id": 89937890,
+						"player_slot": 129,
+						"hero_id": 46
+					},
+					{
+						"account_id": 70957265,
+						"player_slot": 130,
+						"hero_id": 48
+					},
+					{
+						"account_id": 85165416,
+						"player_slot": 131,
+						"hero_id": 92
+					},
+					{
+						"account_id": 91980063,
+						"player_slot": 132,
+						"hero_id": 9
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 629102114,
+				"match_seq_num": 571896083,
+				"start_time": 1398539565,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 99766526,
+						"player_slot": 0,
+						"hero_id": 19
+					},
+					{
+						"account_id": 105165814,
+						"player_slot": 1,
+						"hero_id": 40
+					},
+					{
+						"account_id": 98716278,
+						"player_slot": 2,
+						"hero_id": 29
+					},
+					{
+						"account_id": 85628097,
+						"player_slot": 3,
+						"hero_id": 69
+					},
+					{
+						"account_id": 90609079,
+						"player_slot": 4,
+						"hero_id": 91
+					},
+					{
+						"account_id": 89327623,
+						"player_slot": 128,
+						"hero_id": 93
+					},
+					{
+						"account_id": 125352379,
+						"player_slot": 129,
+						"hero_id": 34
+					},
+					{
+						"account_id": 96670860,
+						"player_slot": 130,
+						"hero_id": 68
+					},
+					{
+						"account_id": 86817524,
+						"player_slot": 131,
+						"hero_id": 21
+					},
+					{
+						"account_id": 173427091,
+						"player_slot": 132,
+						"hero_id": 87
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 629026839,
+				"match_seq_num": 571795522,
+				"start_time": 1398536605,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 131284339,
+						"player_slot": 0,
+						"hero_id": 55
+					},
+					{
+						"account_id": 117588602,
+						"player_slot": 1,
+						"hero_id": 1
+					},
+					{
+						"account_id": 152210952,
+						"player_slot": 2,
+						"hero_id": 26
+					},
+					{
+						"account_id": 141938502,
+						"player_slot": 3,
+						"hero_id": 97
+					},
+					{
+						"account_id": 82580003,
+						"player_slot": 4,
+						"hero_id": 103
+					},
+					{
+						"account_id": 107757576,
+						"player_slot": 128,
+						"hero_id": 34
+					},
+					{
+						"account_id": 75257735,
+						"player_slot": 129,
+						"hero_id": 67
+					},
+					{
+						"account_id": 29366994,
+						"player_slot": 130,
+						"hero_id": 86
+					},
+					{
+						"account_id": 99189257,
+						"player_slot": 131,
+						"hero_id": 96
+					},
+					{
+						"account_id": 91449910,
+						"player_slot": 132,
+						"hero_id": 68
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 628957308,
+				"match_seq_num": 571775536,
+				"start_time": 1398534384,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 89327623,
+						"player_slot": 0,
+						"hero_id": 9
+					},
+					{
+						"account_id": 96670860,
+						"player_slot": 1,
+						"hero_id": 83
+					},
+					{
+						"account_id": 173427091,
+						"player_slot": 2,
+						"hero_id": 26
+					},
+					{
+						"account_id": 101492698,
+						"player_slot": 3,
+						"hero_id": 65
+					},
+					{
+						"account_id": 125352379,
+						"player_slot": 4,
+						"hero_id": 11
+					},
+					{
+						"account_id": 97589985,
+						"player_slot": 128,
+						"hero_id": 20
+					},
+					{
+						"account_id": 70957265,
+						"player_slot": 129,
+						"hero_id": 36
+					},
+					{
+						"account_id": 89937890,
+						"player_slot": 130,
+						"hero_id": 13
+					},
+					{
+						"account_id": 85165416,
+						"player_slot": 131,
+						"hero_id": 31
+					},
+					{
+						"account_id": 91980063,
+						"player_slot": 132,
+						"hero_id": 21
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 628836552,
+				"match_seq_num": 571660657,
+				"start_time": 1398530251,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 97589985,
+						"player_slot": 0,
+						"hero_id": 86
+					},
+					{
+						"account_id": 91980063,
+						"player_slot": 1,
+						"hero_id": 21
+					},
+					{
+						"account_id": 70957265,
+						"player_slot": 2,
+						"hero_id": 54
+					},
+					{
+						"account_id": 89937890,
+						"player_slot": 3,
+						"hero_id": 93
+					},
+					{
+						"account_id": 85165416,
+						"player_slot": 4,
+						"hero_id": 31
+					},
+					{
+						"account_id": 99766526,
+						"player_slot": 128,
+						"hero_id": 63
+					},
+					{
+						"account_id": 105165814,
+						"player_slot": 129,
+						"hero_id": 50
+					},
+					{
+						"account_id": 98716278,
+						"player_slot": 130,
+						"hero_id": 9
+					},
+					{
+						"account_id": 85628097,
+						"player_slot": 131,
+						"hero_id": 99
+					},
+					{
+						"account_id": 90609079,
+						"player_slot": 132,
+						"hero_id": 79
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 628674813,
+				"match_seq_num": 571551238,
+				"start_time": 1398525362,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 99766526,
+						"player_slot": 0,
+						"hero_id": 47
+					},
+					{
+						"account_id": 85628097,
+						"player_slot": 1,
+						"hero_id": 96
+					},
+					{
+						"account_id": 98716278,
+						"player_slot": 2,
+						"hero_id": 53
+					},
+					{
+						"account_id": 105165814,
+						"player_slot": 3,
+						"hero_id": 68
+					},
+					{
+						"account_id": 90609079,
+						"player_slot": 4,
+						"hero_id": 20
+					},
+					{
+						"account_id": 97589985,
+						"player_slot": 128,
+						"hero_id": 88
+					},
+					{
+						"account_id": 89937890,
+						"player_slot": 129,
+						"hero_id": 65
+					},
+					{
+						"account_id": 70957265,
+						"player_slot": 130,
+						"hero_id": 72
+					},
+					{
+						"account_id": 85165416,
+						"player_slot": 131,
+						"hero_id": 95
+					},
+					{
+						"account_id": 91980063,
+						"player_slot": 132,
+						"hero_id": 98
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 628657760,
+				"match_seq_num": 571507309,
+				"start_time": 1398524519,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 89327623,
+						"player_slot": 0,
+						"hero_id": 9
+					},
+					{
+						"account_id": 86817524,
+						"player_slot": 1,
+						"hero_id": 27
+					},
+					{
+						"account_id": 96670860,
+						"player_slot": 2,
+						"hero_id": 83
+					},
+					{
+						"account_id": 125352379,
+						"player_slot": 3,
+						"hero_id": 17
+					},
+					{
+						"account_id": 101492698,
+						"player_slot": 4,
+						"hero_id": 65
+					},
+					{
+						"account_id": 63644442,
+						"player_slot": 128,
+						"hero_id": 96
+					},
+					{
+						"account_id": 101805273,
+						"player_slot": 129,
+						"hero_id": 98
+					},
+					{
+						"account_id": 54374135,
+						"player_slot": 130,
+						"hero_id": 60
+					},
+					{
+						"account_id": 60941718,
+						"player_slot": 131,
+						"hero_id": 102
+					},
+					{
+						"account_id": 61102769,
+						"player_slot": 132,
+						"hero_id": 5
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 628560188,
+				"match_seq_num": 571432857,
+				"start_time": 1398521344,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 60941718,
+						"player_slot": 0,
+						"hero_id": 21
+					},
+					{
+						"account_id": 63644442,
+						"player_slot": 1,
+						"hero_id": 72
+					},
+					{
+						"account_id": 54374135,
+						"player_slot": 2,
+						"hero_id": 98
+					},
+					{
+						"account_id": 101805273,
+						"player_slot": 3,
+						"hero_id": 76
+					},
+					{
+						"account_id": 61102769,
+						"player_slot": 4,
+						"hero_id": 68
+					},
+					{
+						"account_id": 89327623,
+						"player_slot": 128,
+						"hero_id": 28
+					},
+					{
+						"account_id": 125352379,
+						"player_slot": 129,
+						"hero_id": 53
+					},
+					{
+						"account_id": 96670860,
+						"player_slot": 130,
+						"hero_id": 3
+					},
+					{
+						"account_id": 101492698,
+						"player_slot": 131,
+						"hero_id": 55
+					},
+					{
+						"account_id": 86817524,
+						"player_slot": 132,
+						"hero_id": 9
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 628499605,
+				"match_seq_num": 571361339,
+				"start_time": 1398518151,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 89327623,
+						"player_slot": 0,
+						"hero_id": 39
+					},
+					{
+						"account_id": 96670860,
+						"player_slot": 1,
+						"hero_id": 83
+					},
+					{
+						"account_id": 101492698,
+						"player_slot": 2,
+						"hero_id": 96
+					},
+					{
+						"account_id": 125352379,
+						"player_slot": 3,
+						"hero_id": 11
+					},
+					{
+						"account_id": 173427091,
+						"player_slot": 4,
+						"hero_id": 86
+					},
+					{
+						"account_id": 60941718,
+						"player_slot": 128,
+						"hero_id": 29
+					},
+					{
+						"account_id": 101805273,
+						"player_slot": 129,
+						"hero_id": 74
+					},
+					{
+						"account_id": 63644442,
+						"player_slot": 130,
+						"hero_id": 93
+					},
+					{
+						"account_id": 95006446,
+						"player_slot": 131,
+						"hero_id": 31
+					},
+					{
+						"account_id": 61102769,
+						"player_slot": 132,
+						"hero_id": 79
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 627390494,
+				"match_seq_num": 570406518,
+				"start_time": 1398456737,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 65055068,
+						"player_slot": 0,
+						"hero_id": 20
+					},
+					{
+						"account_id": 110458449,
+						"player_slot": 1,
+						"hero_id": 13
+					},
+					{
+						"account_id": 28972568,
+						"player_slot": 2,
+						"hero_id": 54
+					},
+					{
+						"account_id": 109063330,
+						"player_slot": 3,
+						"hero_id": 55
+					},
+					{
+						"account_id": 93896140,
+						"player_slot": 4,
+						"hero_id": 50
+					},
+					{
+						"account_id": 97589985,
+						"player_slot": 128,
+						"hero_id": 86
+					},
+					{
+						"account_id": 89937890,
+						"player_slot": 129,
+						"hero_id": 2
+					},
+					{
+						"account_id": 70957265,
+						"player_slot": 130,
+						"hero_id": 19
+					},
+					{
+						"account_id": 85165416,
+						"player_slot": 131,
+						"hero_id": 5
+					},
+					{
+						"account_id": 91980063,
+						"player_slot": 132,
+						"hero_id": 96
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 627277043,
+				"match_seq_num": 570331737,
+				"start_time": 1398451495,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 173427091,
+						"player_slot": 0,
+						"hero_id": 31
+					},
+					{
+						"account_id": 96670860,
+						"player_slot": 1,
+						"hero_id": 68
+					},
+					{
+						"account_id": 89327623,
+						"player_slot": 2,
+						"hero_id": 9
+					},
+					{
+						"account_id": 101492698,
+						"player_slot": 3,
+						"hero_id": 96
+					},
+					{
+						"account_id": 125352379,
+						"player_slot": 4,
+						"hero_id": 11
+					},
+					{
+						"account_id": 97589985,
+						"player_slot": 128,
+						"hero_id": 7
+					},
+					{
+						"account_id": 89937890,
+						"player_slot": 129,
+						"hero_id": 46
+					},
+					{
+						"account_id": 70957265,
+						"player_slot": 130,
+						"hero_id": 48
+					},
+					{
+						"account_id": 85165416,
+						"player_slot": 131,
+						"hero_id": 95
+					},
+					{
+						"account_id": 91980063,
+						"player_slot": 132,
+						"hero_id": 75
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 625826053,
+				"match_seq_num": 568964882,
+				"start_time": 1398370796,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 113847466,
+						"player_slot": 0,
+						"hero_id": 13
+					},
+					{
+						"account_id": 90115454,
+						"player_slot": 1,
+						"hero_id": 5
+					},
+					{
+						"account_id": 59323495,
+						"player_slot": 2,
+						"hero_id": 89
+					},
+					{
+						"account_id": 74836386,
+						"player_slot": 3,
+						"hero_id": 83
+					},
+					{
+						"account_id": 60955340,
+						"player_slot": 4,
+						"hero_id": 46
+					},
+					{
+						"account_id": 70249086,
+						"player_slot": 128,
+						"hero_id": 10
+					},
+					{
+						"account_id": 91399277,
+						"player_slot": 129,
+						"hero_id": 50
+					},
+					{
+						"account_id": 96810662,
+						"player_slot": 130,
+						"hero_id": 2
+					},
+					{
+						"account_id": 131763884,
+						"player_slot": 131,
+						"hero_id": 14
+					},
+					{
+						"account_id": 40435174,
+						"player_slot": 132,
+						"hero_id": 79
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 625766487,
+				"match_seq_num": 568919245,
+				"start_time": 1398367103,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 83536975,
+						"player_slot": 0,
+						"hero_id": 85
+					},
+					{
+						"account_id": 127148127,
+						"player_slot": 1,
+						"hero_id": 36
+					},
+					{
+						"account_id": 150188537,
+						"player_slot": 2,
+						"hero_id": 99
+					},
+					{
+						"account_id": 129347497,
+						"player_slot": 3,
+						"hero_id": 44
+					},
+					{
+						"account_id": 38960252,
+						"player_slot": 4,
+						"hero_id": 9
+					},
+					{
+						"account_id": 66969758,
+						"player_slot": 128,
+						"hero_id": 50
+					},
+					{
+						"account_id": 94255650,
+						"player_slot": 129,
+						"hero_id": 34
+					},
+					{
+						"account_id": 86978154,
+						"player_slot": 130,
+						"hero_id": 26
+					},
+					{
+						"account_id": 66683431,
+						"player_slot": 131,
+						"hero_id": 98
+					},
+					{
+						"account_id": 52169039,
+						"player_slot": 132,
+						"hero_id": 28
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 625748394,
+				"match_seq_num": 568907444,
+				"start_time": 1398366230,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 99766526,
+						"player_slot": 0,
+						"hero_id": 41
+					},
+					{
+						"account_id": 105165814,
+						"player_slot": 1,
+						"hero_id": 68
+					},
+					{
+						"account_id": 98716278,
+						"player_slot": 2,
+						"hero_id": 88
+					},
+					{
+						"account_id": 85628097,
+						"player_slot": 3,
+						"hero_id": 42
+					},
+					{
+						"account_id": 90609079,
+						"player_slot": 4,
+						"hero_id": 40
+					},
+					{
+						"account_id": 118006771,
+						"player_slot": 128,
+						"hero_id": 74
+					},
+					{
+						"account_id": 125736721,
+						"player_slot": 129,
+						"hero_id": 83
+					},
+					{
+						"account_id": 91285897,
+						"player_slot": 130,
+						"hero_id": 5
+					},
+					{
+						"account_id": 86816477,
+						"player_slot": 131,
+						"hero_id": 92
+					},
+					{
+						"account_id": 66897899,
+						"player_slot": 132,
+						"hero_id": 48
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 625713988,
+				"match_seq_num": 568866254,
+				"start_time": 1398364387,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 97422536,
+						"player_slot": 0,
+						"hero_id": 43
+					},
+					{
+						"account_id": 110331376,
+						"player_slot": 1,
+						"hero_id": 9
+					},
+					{
+						"account_id": 78264138,
+						"player_slot": 2,
+						"hero_id": 3
+					},
+					{
+						"account_id": 147334152,
+						"player_slot": 3,
+						"hero_id": 55
+					},
+					{
+						"account_id": 114438371,
+						"player_slot": 4,
+						"hero_id": 47
+					},
+					{
+						"account_id": 69048040,
+						"player_slot": 128,
+						"hero_id": 92
+					},
+					{
+						"account_id": 68144225,
+						"player_slot": 129,
+						"hero_id": 74
+					},
+					{
+						"account_id": 143206480,
+						"player_slot": 130,
+						"hero_id": 53
+					},
+					{
+						"account_id": 113580295,
+						"player_slot": 131,
+						"hero_id": 27
+					},
+					{
+						"account_id": 83325568,
+						"player_slot": 132,
+						"hero_id": 69
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 624359903,
+				"match_seq_num": 567637571,
+				"start_time": 1398284413,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 113847466,
+						"player_slot": 0,
+						"hero_id": 9
+					},
+					{
+						"account_id": 90115454,
+						"player_slot": 1,
+						"hero_id": 7
+					},
+					{
+						"account_id": 74836386,
+						"player_slot": 2,
+						"hero_id": 30
+					},
+					{
+						"account_id": 59323495,
+						"player_slot": 3,
+						"hero_id": 74
+					},
+					{
+						"account_id": 60955340,
+						"player_slot": 4,
+						"hero_id": 93
+					},
+					{
+						"account_id": 2632380,
+						"player_slot": 128,
+						"hero_id": 40
+					},
+					{
+						"account_id": 66661698,
+						"player_slot": 129,
+						"hero_id": 11
+					},
+					{
+						"account_id": 44033472,
+						"player_slot": 130,
+						"hero_id": 97
+					},
+					{
+						"account_id": 70358960,
+						"player_slot": 131,
+						"hero_id": 20
+					},
+					{
+						"account_id": 62568990,
+						"player_slot": 132,
+						"hero_id": 13
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 624311971,
+				"match_seq_num": 567603475,
+				"start_time": 1398281160,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 2632380,
+						"player_slot": 0,
+						"hero_id": 88
+					},
+					{
+						"account_id": 44033472,
+						"player_slot": 1,
+						"hero_id": 47
+					},
+					{
+						"account_id": 62568990,
+						"player_slot": 2,
+						"hero_id": 98
+					},
+					{
+						"account_id": 66661698,
+						"player_slot": 3,
+						"hero_id": 39
+					},
+					{
+						"account_id": 70358960,
+						"player_slot": 4,
+						"hero_id": 87
+					},
+					{
+						"account_id": 113847466,
+						"player_slot": 128,
+						"hero_id": 96
+					},
+					{
+						"account_id": 74836386,
+						"player_slot": 129,
+						"hero_id": 50
+					},
+					{
+						"account_id": 59323495,
+						"player_slot": 130,
+						"hero_id": 74
+					},
+					{
+						"account_id": 90115454,
+						"player_slot": 131,
+						"hero_id": 26
+					},
+					{
+						"account_id": 60955340,
+						"player_slot": 132,
+						"hero_id": 48
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 624276260,
+				"match_seq_num": 567563761,
+				"start_time": 1398279087,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 99766526,
+						"player_slot": 0,
+						"hero_id": 67
+					},
+					{
+						"account_id": 105165814,
+						"player_slot": 1,
+						"hero_id": 50
+					},
+					{
+						"account_id": 98716278,
+						"player_slot": 2,
+						"hero_id": 65
+					},
+					{
+						"account_id": 85628097,
+						"player_slot": 3,
+						"hero_id": 9
+					},
+					{
+						"account_id": 90609079,
+						"player_slot": 4,
+						"hero_id": 88
+					},
+					{
+						"account_id": 118006771,
+						"player_slot": 128,
+						"hero_id": 47
+					},
+					{
+						"account_id": 125736721,
+						"player_slot": 129,
+						"hero_id": 21
+					},
+					{
+						"account_id": 91285897,
+						"player_slot": 130,
+						"hero_id": 5
+					},
+					{
+						"account_id": 86816477,
+						"player_slot": 131,
+						"hero_id": 102
+					},
+					{
+						"account_id": 66897899,
+						"player_slot": 132,
+						"hero_id": 6
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 624250074,
+				"match_seq_num": 567531751,
+				"start_time": 1398276835,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 115871717,
+						"player_slot": 0,
+						"hero_id": 9
+					},
+					{
+						"account_id": 62374835,
+						"player_slot": 1,
+						"hero_id": 52
+					},
+					{
+						"account_id": 111532438,
+						"player_slot": 2,
+						"hero_id": 5
+					},
+					{
+						"account_id": 82791487,
+						"player_slot": 3,
+						"hero_id": 18
+					},
+					{
+						"account_id": 156652913,
+						"player_slot": 4,
+						"hero_id": 49
+					},
+					{
+						"account_id": 107757576,
+						"player_slot": 128,
+						"hero_id": 65
+					},
+					{
+						"account_id": 86891802,
+						"player_slot": 129,
+						"hero_id": 79
+					},
+					{
+						"account_id": 29366994,
+						"player_slot": 130,
+						"hero_id": 50
+					},
+					{
+						"account_id": 116014249,
+						"player_slot": 131,
+						"hero_id": 93
+					},
+					{
+						"account_id": 121543674,
+						"player_slot": 132,
+						"hero_id": 77
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 624152345,
+				"match_seq_num": 567471389,
+				"start_time": 1398273295,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 145324271,
+						"player_slot": 0,
+						"hero_id": 50
+					},
+					{
+						"account_id": 18191898,
+						"player_slot": 1,
+						"hero_id": 96
+					},
+					{
+						"account_id": 65459132,
+						"player_slot": 2,
+						"hero_id": 48
+					},
+					{
+						"account_id": 113926953,
+						"player_slot": 3,
+						"hero_id": 65
+					},
+					{
+						"account_id": 101765164,
+						"player_slot": 4,
+						"hero_id": 86
+					},
+					{
+						"account_id": 118349510,
+						"player_slot": 128,
+						"hero_id": 51
+					},
+					{
+						"account_id": 152508853,
+						"player_slot": 129,
+						"hero_id": 40
+					},
+					{
+						"account_id": 27816629,
+						"player_slot": 130,
+						"hero_id": 33
+					},
+					{
+						"account_id": 91508229,
+						"player_slot": 131,
+						"hero_id": 67
+					},
+					{
+						"account_id": 16468678,
+						"player_slot": 132,
+						"hero_id": 45
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 624129650,
+				"match_seq_num": 567440459,
+				"start_time": 1398272350,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 115430826,
+						"player_slot": 0,
+						"hero_id": 40
+					},
+					{
+						"account_id": 38960252,
+						"player_slot": 1,
+						"hero_id": 69
+					},
+					{
+						"account_id": 127148127,
+						"player_slot": 2,
+						"hero_id": 29
+					},
+					{
+						"account_id": 83536975,
+						"player_slot": 3,
+						"hero_id": 37
+					},
+					{
+						"account_id": 150188537,
+						"player_slot": 4,
+						"hero_id": 17
+					},
+					{
+						"account_id": 115481430,
+						"player_slot": 128,
+						"hero_id": 9
+					},
+					{
+						"account_id": 118601438,
+						"player_slot": 129,
+						"hero_id": 99
+					},
+					{
+						"account_id": 81852416,
+						"player_slot": 130,
+						"hero_id": 85
+					},
+					{
+						"account_id": 100269768,
+						"player_slot": 131,
+						"hero_id": 30
+					},
+					{
+						"account_id": 81826133,
+						"player_slot": 132,
+						"hero_id": 27
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 624010418,
+				"match_seq_num": 567318681,
+				"start_time": 1398267580,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 81852416,
+						"player_slot": 0,
+						"hero_id": 92
+					},
+					{
+						"account_id": 115481430,
+						"player_slot": 1,
+						"hero_id": 74
+					},
+					{
+						"account_id": 118601438,
+						"player_slot": 2,
+						"hero_id": 99
+					},
+					{
+						"account_id": 100269768,
+						"player_slot": 3,
+						"hero_id": 40
+					},
+					{
+						"account_id": 81826133,
+						"player_slot": 4,
+						"hero_id": 27
+					},
+					{
+						"account_id": 65055068,
+						"player_slot": 128,
+						"hero_id": 63
+					},
+					{
+						"account_id": 110458449,
+						"player_slot": 129,
+						"hero_id": 46
+					},
+					{
+						"account_id": 109063330,
+						"player_slot": 130,
+						"hero_id": 55
+					},
+					{
+						"account_id": 41816052,
+						"player_slot": 131,
+						"hero_id": 20
+					},
+					{
+						"account_id": 16473269,
+						"player_slot": 132,
+						"hero_id": 83
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 623967806,
+				"match_seq_num": 567287034,
+				"start_time": 1398265872,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 89937890,
+						"player_slot": 0,
+						"hero_id": 13
+					},
+					{
+						"account_id": 70957265,
+						"player_slot": 1,
+						"hero_id": 48
+					},
+					{
+						"account_id": 97589985,
+						"player_slot": 2,
+						"hero_id": 86
+					},
+					{
+						"account_id": 85165416,
+						"player_slot": 3,
+						"hero_id": 95
+					},
+					{
+						"account_id": 91980063,
+						"player_slot": 4,
+						"hero_id": 96
+					},
+					{
+						"account_id": 118006771,
+						"player_slot": 128,
+						"hero_id": 46
+					},
+					{
+						"account_id": 125736721,
+						"player_slot": 129,
+						"hero_id": 63
+					},
+					{
+						"account_id": 91285897,
+						"player_slot": 130,
+						"hero_id": 68
+					},
+					{
+						"account_id": 86816477,
+						"player_slot": 131,
+						"hero_id": 20
+					},
+					{
+						"account_id": 66897899,
+						"player_slot": 132,
+						"hero_id": 99
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 622886887,
+				"match_seq_num": 566308320,
+				"start_time": 1398196226,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 110458449,
+						"player_slot": 0,
+						"hero_id": 46
+					},
+					{
+						"account_id": 117671227,
+						"player_slot": 1,
+						"hero_id": 20
+					},
+					{
+						"account_id": 101917323,
+						"player_slot": 2,
+						"hero_id": 9
+					},
+					{
+						"account_id": 109063330,
+						"player_slot": 3,
+						"hero_id": 50
+					},
+					{
+						"account_id": 65055068,
+						"player_slot": 4,
+						"hero_id": 54
+					},
+					{
+						"account_id": 118349510,
+						"player_slot": 128,
+						"hero_id": 51
+					},
+					{
+						"account_id": 172284044,
+						"player_slot": 129,
+						"hero_id": 68
+					},
+					{
+						"account_id": 117622311,
+						"player_slot": 130,
+						"hero_id": 74
+					},
+					{
+						"account_id": 91508229,
+						"player_slot": 131,
+						"hero_id": 73
+					},
+					{
+						"account_id": 52300502,
+						"player_slot": 132,
+						"hero_id": 63
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 622820429,
+				"match_seq_num": 566271018,
+				"start_time": 1398192457,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 109319621,
+						"player_slot": 0,
+						"hero_id": 9
+					},
+					{
+						"account_id": 117558282,
+						"player_slot": 1,
+						"hero_id": 83
+					},
+					{
+						"account_id": 136839225,
+						"player_slot": 2,
+						"hero_id": 15
+					},
+					{
+						"account_id": 62232691,
+						"player_slot": 3,
+						"hero_id": 87
+					},
+					{
+						"account_id": 107285964,
+						"player_slot": 4,
+						"hero_id": 88
+					},
+					{
+						"account_id": 118006771,
+						"player_slot": 128,
+						"hero_id": 47
+					},
+					{
+						"account_id": 125736721,
+						"player_slot": 129,
+						"hero_id": 63
+					},
+					{
+						"account_id": 91285897,
+						"player_slot": 130,
+						"hero_id": 68
+					},
+					{
+						"account_id": 86816477,
+						"player_slot": 131,
+						"hero_id": 20
+					},
+					{
+						"account_id": 66897899,
+						"player_slot": 132,
+						"hero_id": 93
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 622816775,
+				"match_seq_num": 566253742,
+				"start_time": 1398192088,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 99766526,
+						"player_slot": 0,
+						"hero_id": 44
+					},
+					{
+						"account_id": 105165814,
+						"player_slot": 1,
+						"hero_id": 68
+					},
+					{
+						"account_id": 98716278,
+						"player_slot": 2,
+						"hero_id": 97
+					},
+					{
+						"account_id": 85628097,
+						"player_slot": 3,
+						"hero_id": 95
+					},
+					{
+						"account_id": 90609079,
+						"player_slot": 4,
+						"hero_id": 20
+					},
+					{
+						"account_id": 110458449,
+						"player_slot": 128,
+						"hero_id": 13
+					},
+					{
+						"account_id": 109063330,
+						"player_slot": 129,
+						"hero_id": 51
+					},
+					{
+						"account_id": 117671227,
+						"player_slot": 130,
+						"hero_id": 16
+					},
+					{
+						"account_id": 65055068,
+						"player_slot": 131,
+						"hero_id": 54
+					},
+					{
+						"account_id": 41816052,
+						"player_slot": 132,
+						"hero_id": 40
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 622738079,
+				"match_seq_num": 566158799,
+				"start_time": 1398188782,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 118349510,
+						"player_slot": 0,
+						"hero_id": 51
+					},
+					{
+						"account_id": 172284044,
+						"player_slot": 1,
+						"hero_id": 50
+					},
+					{
+						"account_id": 117622311,
+						"player_slot": 2,
+						"hero_id": 49
+					},
+					{
+						"account_id": 91508229,
+						"player_slot": 3,
+						"hero_id": 53
+					},
+					{
+						"account_id": 52300502,
+						"player_slot": 4,
+						"hero_id": 43
+					},
+					{
+						"account_id": 66969758,
+						"player_slot": 128,
+						"hero_id": 69
+					},
+					{
+						"account_id": 94255650,
+						"player_slot": 129,
+						"hero_id": 76
+					},
+					{
+						"account_id": 86978154,
+						"player_slot": 130,
+						"hero_id": 102
+					},
+					{
+						"account_id": 66683431,
+						"player_slot": 131,
+						"hero_id": 63
+					},
+					{
+						"account_id": 39926650,
+						"player_slot": 132,
+						"hero_id": 26
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 622661346,
+				"match_seq_num": 566148187,
+				"start_time": 1398185247,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 99766526,
+						"player_slot": 0,
+						"hero_id": 77
+					},
+					{
+						"account_id": 105165814,
+						"player_slot": 1,
+						"hero_id": 79
+					},
+					{
+						"account_id": 98716278,
+						"player_slot": 2,
+						"hero_id": 96
+					},
+					{
+						"account_id": 85628097,
+						"player_slot": 3,
+						"hero_id": 76
+					},
+					{
+						"account_id": 90609079,
+						"player_slot": 4,
+						"hero_id": 66
+					},
+					{
+						"account_id": 115871717,
+						"player_slot": 128,
+						"hero_id": 9
+					},
+					{
+						"account_id": 25385174,
+						"player_slot": 129,
+						"hero_id": 71
+					},
+					{
+						"account_id": 62374835,
+						"player_slot": 130,
+						"hero_id": 36
+					},
+					{
+						"account_id": 31006332,
+						"player_slot": 131,
+						"hero_id": 50
+					},
+					{
+						"account_id": 112903954,
+						"player_slot": 132,
+						"hero_id": 2
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 622652122,
+				"match_seq_num": 566118573,
+				"start_time": 1398185141,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 109398935,
+						"player_slot": 0,
+						"hero_id": 13
+					},
+					{
+						"account_id": 115481430,
+						"player_slot": 1,
+						"hero_id": 69
+					},
+					{
+						"account_id": 81852416,
+						"player_slot": 2,
+						"hero_id": 65
+					},
+					{
+						"account_id": 81826133,
+						"player_slot": 3,
+						"hero_id": 30
+					},
+					{
+						"account_id": 100269768,
+						"player_slot": 4,
+						"hero_id": 40
+					},
+					{
+						"account_id": 118006771,
+						"player_slot": 128,
+						"hero_id": 74
+					},
+					{
+						"account_id": 125736721,
+						"player_slot": 129,
+						"hero_id": 63
+					},
+					{
+						"account_id": 91285897,
+						"player_slot": 130,
+						"hero_id": 68
+					},
+					{
+						"account_id": 86816477,
+						"player_slot": 131,
+						"hero_id": 86
+					},
+					{
+						"account_id": 66897899,
+						"player_slot": 132,
+						"hero_id": 43
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 621410201,
+				"match_seq_num": 564993173,
+				"start_time": 1398108525,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 109063330,
+						"player_slot": 0,
+						"hero_id": 50
+					},
+					{
+						"account_id": 110458449,
+						"player_slot": 1,
+						"hero_id": 46
+					},
+					{
+						"account_id": 65055068,
+						"player_slot": 2,
+						"hero_id": 41
+					},
+					{
+						"account_id": 41816052,
+						"player_slot": 3,
+						"hero_id": 62
+					},
+					{
+						"account_id": 117671227,
+						"player_slot": 4,
+						"hero_id": 68
+					},
+					{
+						"account_id": 83788626,
+						"player_slot": 128,
+						"hero_id": 48
+					},
+					{
+						"account_id": 158200755,
+						"player_slot": 129,
+						"hero_id": 79
+					},
+					{
+						"account_id": 110737534,
+						"player_slot": 130,
+						"hero_id": 88
+					},
+					{
+						"account_id": 77592742,
+						"player_slot": 131,
+						"hero_id": 97
+					},
+					{
+						"account_id": 124234115,
+						"player_slot": 132,
+						"hero_id": 57
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 621406297,
+				"match_seq_num": 564964133,
+				"start_time": 1398108033,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 55649904,
+						"player_slot": 0,
+						"hero_id": 22
+					},
+					{
+						"account_id": 123244426,
+						"player_slot": 1,
+						"hero_id": 85
+					},
+					{
+						"account_id": 119180054,
+						"player_slot": 2,
+						"hero_id": 79
+					},
+					{
+						"account_id": 67891380,
+						"player_slot": 3,
+						"hero_id": 9
+					},
+					{
+						"account_id": 122868185,
+						"player_slot": 4,
+						"hero_id": 57
+					},
+					{
+						"account_id": 83536975,
+						"player_slot": 128,
+						"hero_id": 103
+					},
+					{
+						"account_id": 127148127,
+						"player_slot": 129,
+						"hero_id": 29
+					},
+					{
+						"account_id": 150188537,
+						"player_slot": 130,
+						"hero_id": 42
+					},
+					{
+						"account_id": 129347497,
+						"player_slot": 131,
+						"hero_id": 68
+					},
+					{
+						"account_id": 115430826,
+						"player_slot": 132,
+						"hero_id": 63
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 621388982,
+				"match_seq_num": 564958275,
+				"start_time": 1398107386,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 84708782,
+						"player_slot": 0,
+						"hero_id": 93
+					},
+					{
+						"account_id": 35395056,
+						"player_slot": 1,
+						"hero_id": 79
+					},
+					{
+						"account_id": 40515317,
+						"player_slot": 2,
+						"hero_id": 63
+					},
+					{
+						"account_id": 88980413,
+						"player_slot": 3,
+						"hero_id": 13
+					},
+					{
+						"account_id": 55521420,
+						"player_slot": 4,
+						"hero_id": 50
+					},
+					{
+						"account_id": 90646195,
+						"player_slot": 128,
+						"hero_id": 16
+					},
+					{
+						"account_id": 88278840,
+						"player_slot": 129,
+						"hero_id": 98
+					},
+					{
+						"account_id": 20603135,
+						"player_slot": 130,
+						"hero_id": 11
+					},
+					{
+						"account_id": 86788928,
+						"player_slot": 131,
+						"hero_id": 9
+					},
+					{
+						"account_id": 123583095,
+						"player_slot": 132,
+						"hero_id": 68
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 621325477,
+				"match_seq_num": 564900806,
+				"start_time": 1398104125,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 99766526,
+						"player_slot": 0,
+						"hero_id": 89
+					},
+					{
+						"account_id": 105165814,
+						"player_slot": 1,
+						"hero_id": 50
+					},
+					{
+						"account_id": 98716278,
+						"player_slot": 2,
+						"hero_id": 65
+					},
+					{
+						"account_id": 85628097,
+						"player_slot": 3,
+						"hero_id": 49
+					},
+					{
+						"account_id": 90609079,
+						"player_slot": 4,
+						"hero_id": 83
+					},
+					{
+						"account_id": 84708782,
+						"player_slot": 128,
+						"hero_id": 56
+					},
+					{
+						"account_id": 88980413,
+						"player_slot": 129,
+						"hero_id": 11
+					},
+					{
+						"account_id": 35395056,
+						"player_slot": 130,
+						"hero_id": 40
+					},
+					{
+						"account_id": 40515317,
+						"player_slot": 131,
+						"hero_id": 96
+					},
+					{
+						"account_id": 55521420,
+						"player_slot": 132,
+						"hero_id": 30
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 621252473,
+				"match_seq_num": 564863491,
+				"start_time": 1398100524,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 53263423,
+						"player_slot": 0,
+						"hero_id": 54
+					},
+					{
+						"account_id": 59111069,
+						"player_slot": 1,
+						"hero_id": 62
+					},
+					{
+						"account_id": 13746433,
+						"player_slot": 2,
+						"hero_id": 88
+					},
+					{
+						"account_id": 51384543,
+						"player_slot": 3,
+						"hero_id": 13
+					},
+					{
+						"account_id": 80443019,
+						"player_slot": 4,
+						"hero_id": 40
+					},
+					{
+						"account_id": 81852416,
+						"player_slot": 128,
+						"hero_id": 65
+					},
+					{
+						"account_id": 109398935,
+						"player_slot": 129,
+						"hero_id": 74
+					},
+					{
+						"account_id": 94207632,
+						"player_slot": 130,
+						"hero_id": 69
+					},
+					{
+						"account_id": 100269768,
+						"player_slot": 131,
+						"hero_id": 85
+					},
+					{
+						"account_id": 81826133,
+						"player_slot": 132,
+						"hero_id": 27
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 621070585,
+				"match_seq_num": 564689836,
+				"start_time": 1398093432,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 84708782,
+						"player_slot": 0,
+						"hero_id": 9
+					},
+					{
+						"account_id": 55521420,
+						"player_slot": 1,
+						"hero_id": 31
+					},
+					{
+						"account_id": 35395056,
+						"player_slot": 2,
+						"hero_id": 16
+					},
+					{
+						"account_id": 40515317,
+						"player_slot": 3,
+						"hero_id": 103
+					},
+					{
+						"account_id": 88980413,
+						"player_slot": 4,
+						"hero_id": 76
+					},
+					{
+						"account_id": 90646195,
+						"player_slot": 128,
+						"hero_id": 27
+					},
+					{
+						"account_id": 88278840,
+						"player_slot": 129,
+						"hero_id": 53
+					},
+					{
+						"account_id": 20603135,
+						"player_slot": 130,
+						"hero_id": 74
+					},
+					{
+						"account_id": 86788928,
+						"player_slot": 131,
+						"hero_id": 8
+					},
+					{
+						"account_id": 123583095,
+						"player_slot": 132,
+						"hero_id": 68
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 619931944,
+				"match_seq_num": 563646455,
+				"start_time": 1398024735,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 119453169,
+						"player_slot": 0,
+						"hero_id": 11
+					},
+					{
+						"account_id": 102465135,
+						"player_slot": 1,
+						"hero_id": 16
+					},
+					{
+						"account_id": 86025665,
+						"player_slot": 2,
+						"hero_id": 87
+					},
+					{
+						"account_id": 96581022,
+						"player_slot": 3,
+						"hero_id": 96
+					},
+					{
+						"account_id": 116014249,
+						"player_slot": 4,
+						"hero_id": 41
+					},
+					{
+						"account_id": 30165732,
+						"player_slot": 128,
+						"hero_id": 77
+					},
+					{
+						"account_id": 55649904,
+						"player_slot": 129,
+						"hero_id": 74
+					},
+					{
+						"account_id": 123244426,
+						"player_slot": 130,
+						"hero_id": 65
+					},
+					{
+						"account_id": 67891380,
+						"player_slot": 131,
+						"hero_id": 7
+					},
+					{
+						"account_id": 119180054,
+						"player_slot": 132,
+						"hero_id": 86
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 619889097,
+				"match_seq_num": 563598749,
+				"start_time": 1398022621,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 93844582,
+						"player_slot": 0,
+						"hero_id": 88
+					},
+					{
+						"account_id": 97795495,
+						"player_slot": 1,
+						"hero_id": 27
+					},
+					{
+						"account_id": 96433579,
+						"player_slot": 2,
+						"hero_id": 72
+					},
+					{
+						"account_id": 59839587,
+						"player_slot": 3,
+						"hero_id": 95
+					},
+					{
+						"account_id": 87604913,
+						"player_slot": 4,
+						"hero_id": 65
+					},
+					{
+						"account_id": 90646195,
+						"player_slot": 128,
+						"hero_id": 16
+					},
+					{
+						"account_id": 88278840,
+						"player_slot": 129,
+						"hero_id": 103
+					},
+					{
+						"account_id": 20603135,
+						"player_slot": 130,
+						"hero_id": 89
+					},
+					{
+						"account_id": 86788928,
+						"player_slot": 131,
+						"hero_id": 48
+					},
+					{
+						"account_id": 123583095,
+						"player_slot": 132,
+						"hero_id": 50
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 619869112,
+				"match_seq_num": 563578862,
+				"start_time": 1398021445,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 110331376,
+						"player_slot": 0,
+						"hero_id": 87
+					},
+					{
+						"account_id": 95650276,
+						"player_slot": 1,
+						"hero_id": 3
+					},
+					{
+						"account_id": 137260795,
+						"player_slot": 2,
+						"hero_id": 55
+					},
+					{
+						"account_id": 114438371,
+						"player_slot": 3,
+						"hero_id": 12
+					},
+					{
+						"account_id": 97422536,
+						"player_slot": 4,
+						"hero_id": 49
+					},
+					{
+						"account_id": 96581022,
+						"player_slot": 128,
+						"hero_id": 53
+					},
+					{
+						"account_id": 102465135,
+						"player_slot": 129,
+						"hero_id": 65
+					},
+					{
+						"account_id": 86025665,
+						"player_slot": 130,
+						"hero_id": 16
+					},
+					{
+						"account_id": 116014249,
+						"player_slot": 131,
+						"hero_id": 17
+					},
+					{
+						"account_id": 119453169,
+						"player_slot": 132,
+						"hero_id": 11
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 619798187,
+				"match_seq_num": 563532934,
+				"start_time": 1398017771,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 30165732,
+						"player_slot": 0,
+						"hero_id": 56
+					},
+					{
+						"account_id": 55649904,
+						"player_slot": 1,
+						"hero_id": 106
+					},
+					{
+						"account_id": 119180054,
+						"player_slot": 2,
+						"hero_id": 92
+					},
+					{
+						"account_id": 67891380,
+						"player_slot": 3,
+						"hero_id": 3
+					},
+					{
+						"account_id": 123244426,
+						"player_slot": 4,
+						"hero_id": 88
+					},
+					{
+						"account_id": 90646195,
+						"player_slot": 128,
+						"hero_id": 68
+					},
+					{
+						"account_id": 88278840,
+						"player_slot": 129,
+						"hero_id": 9
+					},
+					{
+						"account_id": 20603135,
+						"player_slot": 130,
+						"hero_id": 13
+					},
+					{
+						"account_id": 86788928,
+						"player_slot": 131,
+						"hero_id": 54
+					},
+					{
+						"account_id": 123583095,
+						"player_slot": 132,
+						"hero_id": 7
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 619724678,
+				"match_seq_num": 563476638,
+				"start_time": 1398013952,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 90646195,
+						"player_slot": 0,
+						"hero_id": 16
+					},
+					{
+						"account_id": 88278840,
+						"player_slot": 1,
+						"hero_id": 69
+					},
+					{
+						"account_id": 20603135,
+						"player_slot": 2,
+						"hero_id": 89
+					},
+					{
+						"account_id": 86788928,
+						"player_slot": 3,
+						"hero_id": 63
+					},
+					{
+						"account_id": 123583095,
+						"player_slot": 4,
+						"hero_id": 50
+					},
+					{
+						"account_id": 55649904,
+						"player_slot": 128,
+						"hero_id": 106
+					},
+					{
+						"account_id": 30165732,
+						"player_slot": 129,
+						"hero_id": 77
+					},
+					{
+						"account_id": 123244426,
+						"player_slot": 130,
+						"hero_id": 55
+					},
+					{
+						"account_id": 67891380,
+						"player_slot": 131,
+						"hero_id": 31
+					},
+					{
+						"account_id": 119180054,
+						"player_slot": 132,
+						"hero_id": 92
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 619640008,
+				"match_seq_num": 563387970,
+				"start_time": 1398010577,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 90646195,
+						"player_slot": 0,
+						"hero_id": 50
+					},
+					{
+						"account_id": 88278840,
+						"player_slot": 1,
+						"hero_id": 65
+					},
+					{
+						"account_id": 20603135,
+						"player_slot": 2,
+						"hero_id": 49
+					},
+					{
+						"account_id": 86788928,
+						"player_slot": 3,
+						"hero_id": 67
+					},
+					{
+						"account_id": 123583095,
+						"player_slot": 4,
+						"hero_id": 7
+					},
+					{
+						"account_id": 119453169,
+						"player_slot": 128,
+						"hero_id": 11
+					},
+					{
+						"account_id": 86025665,
+						"player_slot": 129,
+						"hero_id": 68
+					},
+					{
+						"account_id": 7932121,
+						"player_slot": 130,
+						"hero_id": 63
+					},
+					{
+						"account_id": 96581022,
+						"player_slot": 131,
+						"hero_id": 55
+					},
+					{
+						"account_id": 102465135,
+						"player_slot": 132,
+						"hero_id": 16
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 619446882,
+				"match_seq_num": 563233724,
+				"start_time": 1398003029,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 115481430,
+						"player_slot": 0,
+						"hero_id": 106
+					},
+					{
+						"account_id": 81852416,
+						"player_slot": 1,
+						"hero_id": 65
+					},
+					{
+						"account_id": 81826133,
+						"player_slot": 2,
+						"hero_id": 27
+					},
+					{
+						"account_id": 100269768,
+						"player_slot": 3,
+						"hero_id": 83
+					},
+					{
+						"account_id": 118601438,
+						"player_slot": 4,
+						"hero_id": 47
+					},
+					{
+						"account_id": 90646195,
+						"player_slot": 128,
+						"hero_id": 89
+					},
+					{
+						"account_id": 88278840,
+						"player_slot": 129,
+						"hero_id": 39
+					},
+					{
+						"account_id": 20603135,
+						"player_slot": 130,
+						"hero_id": 21
+					},
+					{
+						"account_id": 86788928,
+						"player_slot": 131,
+						"hero_id": 9
+					},
+					{
+						"account_id": 123583095,
+						"player_slot": 132,
+						"hero_id": 40
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 618182891,
+				"match_seq_num": 562104675,
+				"start_time": 1397936535,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 109398935,
+						"player_slot": 0,
+						"hero_id": 34
+					},
+					{
+						"account_id": 115481430,
+						"player_slot": 1,
+						"hero_id": 6
+					},
+					{
+						"account_id": 81826133,
+						"player_slot": 2,
+						"hero_id": 26
+					},
+					{
+						"account_id": 100269768,
+						"player_slot": 3,
+						"hero_id": 75
+					},
+					{
+						"account_id": 81852416,
+						"player_slot": 4,
+						"hero_id": 65
+					},
+					{
+						"account_id": 53263423,
+						"player_slot": 128,
+						"hero_id": 72
+					},
+					{
+						"account_id": 51384543,
+						"player_slot": 129,
+						"hero_id": 60
+					},
+					{
+						"account_id": 55910506,
+						"player_slot": 130,
+						"hero_id": 88
+					},
+					{
+						"account_id": 59111069,
+						"player_slot": 131,
+						"hero_id": 51
+					},
+					{
+						"account_id": 80443019,
+						"player_slot": 132,
+						"hero_id": 86
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 618093334,
+				"match_seq_num": 562000494,
+				"start_time": 1397932630,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 53263423,
+						"player_slot": 0,
+						"hero_id": 28
+					},
+					{
+						"account_id": 51384543,
+						"player_slot": 1,
+						"hero_id": 46
+					},
+					{
+						"account_id": 55910506,
+						"player_slot": 2,
+						"hero_id": 26
+					},
+					{
+						"account_id": 59111069,
+						"player_slot": 3,
+						"hero_id": 99
+					},
+					{
+						"account_id": 80443019,
+						"player_slot": 4,
+						"hero_id": 86
+					},
+					{
+						"account_id": 77592742,
+						"player_slot": 128,
+						"hero_id": 38
+					},
+					{
+						"account_id": 83788626,
+						"player_slot": 129,
+						"hero_id": 41
+					},
+					{
+						"account_id": 158200755,
+						"player_slot": 130,
+						"hero_id": 31
+					},
+					{
+						"account_id": 110737534,
+						"player_slot": 131,
+						"hero_id": 9
+					},
+					{
+						"account_id": 87156881,
+						"player_slot": 132,
+						"hero_id": 88
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 618060025,
+				"match_seq_num": 561963474,
+				"start_time": 1397931570,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 109398935,
+						"player_slot": 0,
+						"hero_id": 13
+					},
+					{
+						"account_id": 81852416,
+						"player_slot": 1,
+						"hero_id": 92
+					},
+					{
+						"account_id": 81826133,
+						"player_slot": 2,
+						"hero_id": 27
+					},
+					{
+						"account_id": 100269768,
+						"player_slot": 3,
+						"hero_id": 7
+					},
+					{
+						"account_id": 115481430,
+						"player_slot": 4,
+						"hero_id": 12
+					},
+					{
+						"account_id": 70324916,
+						"player_slot": 128,
+						"hero_id": 49
+					},
+					{
+						"account_id": 68703484,
+						"player_slot": 129,
+						"hero_id": 31
+					},
+					{
+						"account_id": 87612482,
+						"player_slot": 130,
+						"hero_id": 48
+					},
+					{
+						"account_id": 37862455,
+						"player_slot": 131,
+						"hero_id": 16
+					},
+					{
+						"account_id": 56580950,
+						"player_slot": 132,
+						"hero_id": 65
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 618020950,
+				"match_seq_num": 561904435,
+				"start_time": 1397930109,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 103361409,
+						"player_slot": 0,
+						"hero_id": 50
+					},
+					{
+						"account_id": 108082685,
+						"player_slot": 1,
+						"hero_id": 47
+					},
+					{
+						"account_id": 29366994,
+						"player_slot": 2,
+						"hero_id": 5
+					},
+					{
+						"account_id": 75257735,
+						"player_slot": 3,
+						"hero_id": 93
+					},
+					{
+						"account_id": 116014249,
+						"player_slot": 4,
+						"hero_id": 34
+					},
+					{
+						"account_id": 83788626,
+						"player_slot": 128,
+						"hero_id": 1
+					},
+					{
+						"account_id": 77592742,
+						"player_slot": 129,
+						"hero_id": 97
+					},
+					{
+						"account_id": 113289926,
+						"player_slot": 130,
+						"hero_id": 86
+					},
+					{
+						"account_id": 110737534,
+						"player_slot": 131,
+						"hero_id": 14
+					},
+					{
+						"account_id": 158200755,
+						"player_slot": 132,
+						"hero_id": 27
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 616314564,
+				"match_seq_num": 560411431,
+				"start_time": 1397845139,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 81852416,
+						"player_slot": 0,
+						"hero_id": 65
+					},
+					{
+						"account_id": 109398935,
+						"player_slot": 1,
+						"hero_id": 34
+					},
+					{
+						"account_id": 115481430,
+						"player_slot": 2,
+						"hero_id": 67
+					},
+					{
+						"account_id": 81826133,
+						"player_slot": 3,
+						"hero_id": 27
+					},
+					{
+						"account_id": 100269768,
+						"player_slot": 4,
+						"hero_id": 7
+					},
+					{
+						"account_id": 70324916,
+						"player_slot": 128,
+						"hero_id": 46
+					},
+					{
+						"account_id": 56580950,
+						"player_slot": 129,
+						"hero_id": 53
+					},
+					{
+						"account_id": 87612482,
+						"player_slot": 130,
+						"hero_id": 77
+					},
+					{
+						"account_id": 68703484,
+						"player_slot": 131,
+						"hero_id": 33
+					},
+					{
+						"account_id": 37862455,
+						"player_slot": 132,
+						"hero_id": 30
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 616303808,
+				"match_seq_num": 560345741,
+				"start_time": 1397844790,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 131284339,
+						"player_slot": 0,
+						"hero_id": 44
+					},
+					{
+						"account_id": 117588602,
+						"player_slot": 1,
+						"hero_id": 26
+					},
+					{
+						"account_id": 141938502,
+						"player_slot": 2,
+						"hero_id": 97
+					},
+					{
+						"account_id": 123116891,
+						"player_slot": 3,
+						"hero_id": 28
+					},
+					{
+						"account_id": 82580003,
+						"player_slot": 4,
+						"hero_id": 5
+					},
+					{
+						"account_id": 118006771,
+						"player_slot": 128,
+						"hero_id": 99
+					},
+					{
+						"account_id": 86816477,
+						"player_slot": 129,
+						"hero_id": 68
+					},
+					{
+						"account_id": 91285897,
+						"player_slot": 130,
+						"hero_id": 86
+					},
+					{
+						"account_id": 125736721,
+						"player_slot": 131,
+						"hero_id": 63
+					},
+					{
+						"account_id": 66897899,
+						"player_slot": 132,
+						"hero_id": 10
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 615965245,
+				"match_seq_num": 560032297,
+				"start_time": 1397832514,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 37862455,
+						"player_slot": 0,
+						"hero_id": 92
+					},
+					{
+						"account_id": 56580950,
+						"player_slot": 1,
+						"hero_id": 96
+					},
+					{
+						"account_id": 87612482,
+						"player_slot": 2,
+						"hero_id": 54
+					},
+					{
+						"account_id": 56507462,
+						"player_slot": 3,
+						"hero_id": 87
+					},
+					{
+						"account_id": 70324916,
+						"player_slot": 4,
+						"hero_id": 76
+					},
+					{
+						"account_id": 84708782,
+						"player_slot": 128,
+						"hero_id": 63
+					},
+					{
+						"account_id": 88980413,
+						"player_slot": 129,
+						"hero_id": 6
+					},
+					{
+						"account_id": 55521420,
+						"player_slot": 130,
+						"hero_id": 68
+					},
+					{
+						"account_id": 40515317,
+						"player_slot": 131,
+						"hero_id": 56
+					},
+					{
+						"account_id": 35395056,
+						"player_slot": 132,
+						"hero_id": 102
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 614883446,
+				"match_seq_num": 559070107,
+				"start_time": 1397767528,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 30165732,
+						"player_slot": 0,
+						"hero_id": 54
+					},
+					{
+						"account_id": 55649904,
+						"player_slot": 1,
+						"hero_id": 74
+					},
+					{
+						"account_id": 119180054,
+						"player_slot": 2,
+						"hero_id": 3
+					},
+					{
+						"account_id": 67891380,
+						"player_slot": 3,
+						"hero_id": 20
+					},
+					{
+						"account_id": 123244426,
+						"player_slot": 4,
+						"hero_id": 65
+					},
+					{
+						"account_id": 49274352,
+						"player_slot": 128,
+						"hero_id": 95
+					},
+					{
+						"account_id": 27227006,
+						"player_slot": 129,
+						"hero_id": 68
+					},
+					{
+						"account_id": 82302800,
+						"player_slot": 130,
+						"hero_id": 96
+					},
+					{
+						"account_id": 86169030,
+						"player_slot": 131,
+						"hero_id": 77
+					},
+					{
+						"account_id": 31447369,
+						"player_slot": 132,
+						"hero_id": 86
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 614813661,
+				"match_seq_num": 559024783,
+				"start_time": 1397763245,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 30165732,
+						"player_slot": 0,
+						"hero_id": 63
+					},
+					{
+						"account_id": 67891380,
+						"player_slot": 1,
+						"hero_id": 83
+					},
+					{
+						"account_id": 119180054,
+						"player_slot": 2,
+						"hero_id": 86
+					},
+					{
+						"account_id": 55649904,
+						"player_slot": 3,
+						"hero_id": 106
+					},
+					{
+						"account_id": 123244426,
+						"player_slot": 4,
+						"hero_id": 88
+					},
+					{
+						"account_id": 49274352,
+						"player_slot": 128,
+						"hero_id": 17
+					},
+					{
+						"account_id": 27227006,
+						"player_slot": 129,
+						"hero_id": 5
+					},
+					{
+						"account_id": 82302800,
+						"player_slot": 130,
+						"hero_id": 69
+					},
+					{
+						"account_id": 86169030,
+						"player_slot": 131,
+						"hero_id": 28
+					},
+					{
+						"account_id": 31447369,
+						"player_slot": 132,
+						"hero_id": 50
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 614777645,
+				"match_seq_num": 559027159,
+				"start_time": 1397761202,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 83788626,
+						"player_slot": 0,
+						"hero_id": 23
+					},
+					{
+						"account_id": 77592742,
+						"player_slot": 1,
+						"hero_id": 21
+					},
+					{
+						"account_id": 124234115,
+						"player_slot": 2,
+						"hero_id": 90
+					},
+					{
+						"account_id": 110737534,
+						"player_slot": 3,
+						"hero_id": 47
+					},
+					{
+						"account_id": 158200755,
+						"player_slot": 4,
+						"hero_id": 20
+					},
+					{
+						"account_id": 37862455,
+						"player_slot": 128,
+						"hero_id": 58
+					},
+					{
+						"account_id": 56580950,
+						"player_slot": 129,
+						"hero_id": 53
+					},
+					{
+						"account_id": 87612482,
+						"player_slot": 130,
+						"hero_id": 77
+					},
+					{
+						"account_id": 70324916,
+						"player_slot": 131,
+						"hero_id": 46
+					},
+					{
+						"account_id": 68703484,
+						"player_slot": 132,
+						"hero_id": 27
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 614717603,
+				"match_seq_num": 558915826,
+				"start_time": 1397758687,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 70324916,
+						"player_slot": 0,
+						"hero_id": 13
+					},
+					{
+						"account_id": 56580950,
+						"player_slot": 1,
+						"hero_id": 98
+					},
+					{
+						"account_id": 37862455,
+						"player_slot": 2,
+						"hero_id": 68
+					},
+					{
+						"account_id": 87612482,
+						"player_slot": 3,
+						"hero_id": 63
+					},
+					{
+						"account_id": 68703484,
+						"player_slot": 4,
+						"hero_id": 26
+					},
+					{
+						"account_id": 49274352,
+						"player_slot": 128,
+						"hero_id": 17
+					},
+					{
+						"account_id": 27227006,
+						"player_slot": 129,
+						"hero_id": 92
+					},
+					{
+						"account_id": 31447369,
+						"player_slot": 130,
+						"hero_id": 9
+					},
+					{
+						"account_id": 86169030,
+						"player_slot": 131,
+						"hero_id": 48
+					},
+					{
+						"account_id": 82302800,
+						"player_slot": 132,
+						"hero_id": 96
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 614693470,
+				"match_seq_num": 558922913,
+				"start_time": 1397757435,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 53263423,
+						"player_slot": 0,
+						"hero_id": 48
+					},
+					{
+						"account_id": 51384543,
+						"player_slot": 1,
+						"hero_id": 74
+					},
+					{
+						"account_id": 55910506,
+						"player_slot": 2,
+						"hero_id": 88
+					},
+					{
+						"account_id": 59111069,
+						"player_slot": 3,
+						"hero_id": 98
+					},
+					{
+						"account_id": 80443019,
+						"player_slot": 4,
+						"hero_id": 40
+					},
+					{
+						"account_id": 32028494,
+						"player_slot": 128,
+						"hero_id": 14
+					},
+					{
+						"account_id": 126137242,
+						"player_slot": 129,
+						"hero_id": 9
+					},
+					{
+						"account_id": 58300888,
+						"player_slot": 130,
+						"hero_id": 3
+					},
+					{
+						"account_id": 125606448,
+						"player_slot": 131,
+						"hero_id": 96
+					},
+					{
+						"account_id": 28624006,
+						"player_slot": 132,
+						"hero_id": 79
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 614680681,
+				"match_seq_num": 558869327,
+				"start_time": 1397756816,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 115481430,
+						"player_slot": 0,
+						"hero_id": 47
+					},
+					{
+						"account_id": 81852416,
+						"player_slot": 1,
+						"hero_id": 92
+					},
+					{
+						"account_id": 106214018,
+						"player_slot": 2,
+						"hero_id": 74
+					},
+					{
+						"account_id": 100269768,
+						"player_slot": 3,
+						"hero_id": 26
+					},
+					{
+						"account_id": 49050025,
+						"player_slot": 4,
+						"hero_id": 93
+					},
+					{
+						"account_id": 55649904,
+						"player_slot": 128,
+						"hero_id": 46
+					},
+					{
+						"account_id": 30165732,
+						"player_slot": 129,
+						"hero_id": 63
+					},
+					{
+						"account_id": 119180054,
+						"player_slot": 130,
+						"hero_id": 50
+					},
+					{
+						"account_id": 67891380,
+						"player_slot": 131,
+						"hero_id": 83
+					},
+					{
+						"account_id": 123244426,
+						"player_slot": 132,
+						"hero_id": 88
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 614565665,
+				"match_seq_num": 558780747,
+				"start_time": 1397752111,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 51384543,
+						"player_slot": 0,
+						"hero_id": 46
+					},
+					{
+						"account_id": 55910506,
+						"player_slot": 1,
+						"hero_id": 88
+					},
+					{
+						"account_id": 53263423,
+						"player_slot": 2,
+						"hero_id": 72
+					},
+					{
+						"account_id": 59111069,
+						"player_slot": 3,
+						"hero_id": 51
+					},
+					{
+						"account_id": 80443019,
+						"player_slot": 4,
+						"hero_id": 86
+					},
+					{
+						"account_id": 105984200,
+						"player_slot": 128,
+						"hero_id": 43
+					},
+					{
+						"account_id": 101561479,
+						"player_slot": 129,
+						"hero_id": 81
+					},
+					{
+						"account_id": 113827944,
+						"player_slot": 130,
+						"hero_id": 97
+					},
+					{
+						"account_id": 91930839,
+						"player_slot": 131,
+						"hero_id": 50
+					},
+					{
+						"account_id": 90976802,
+						"player_slot": 132,
+						"hero_id": 20
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 613277885,
+				"match_seq_num": 557619782,
+				"start_time": 1397673536,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 99766526,
+						"player_slot": 0,
+						"hero_id": 77
+					},
+					{
+						"account_id": 105165814,
+						"player_slot": 1,
+						"hero_id": 3
+					},
+					{
+						"account_id": 98716278,
+						"player_slot": 2,
+						"hero_id": 99
+					},
+					{
+						"account_id": 85628097,
+						"player_slot": 3,
+						"hero_id": 17
+					},
+					{
+						"account_id": 90609079,
+						"player_slot": 4,
+						"hero_id": 66
+					},
+					{
+						"account_id": 124234115,
+						"player_slot": 128,
+						"hero_id": 2
+					},
+					{
+						"account_id": 158200755,
+						"player_slot": 129,
+						"hero_id": 84
+					},
+					{
+						"account_id": 83788626,
+						"player_slot": 130,
+						"hero_id": 106
+					},
+					{
+						"account_id": 77592742,
+						"player_slot": 131,
+						"hero_id": 9
+					},
+					{
+						"account_id": 113289926,
+						"player_slot": 132,
+						"hero_id": 89
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 613275306,
+				"match_seq_num": 557641849,
+				"start_time": 1397673293,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 101508699,
+						"player_slot": 0,
+						"hero_id": 74
+					},
+					{
+						"account_id": 99189257,
+						"player_slot": 1,
+						"hero_id": 8
+					},
+					{
+						"account_id": 92405427,
+						"player_slot": 2,
+						"hero_id": 96
+					},
+					{
+						"account_id": 139918020,
+						"player_slot": 3,
+						"hero_id": 40
+					},
+					{
+						"account_id": 68350354,
+						"player_slot": 4,
+						"hero_id": 33
+					},
+					{
+						"account_id": 90646195,
+						"player_slot": 128,
+						"hero_id": 50
+					},
+					{
+						"account_id": 88278840,
+						"player_slot": 129,
+						"hero_id": 9
+					},
+					{
+						"account_id": 20603135,
+						"player_slot": 130,
+						"hero_id": 46
+					},
+					{
+						"account_id": 86788928,
+						"player_slot": 131,
+						"hero_id": 93
+					},
+					{
+						"account_id": 123583095,
+						"player_slot": 132,
+						"hero_id": 7
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 613255732,
+				"match_seq_num": 557606996,
+				"start_time": 1397672657,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 105984200,
+						"player_slot": 0,
+						"hero_id": 43
+					},
+					{
+						"account_id": 90976802,
+						"player_slot": 1,
+						"hero_id": 86
+					},
+					{
+						"account_id": 113827944,
+						"player_slot": 2,
+						"hero_id": 97
+					},
+					{
+						"account_id": 91930839,
+						"player_slot": 3,
+						"hero_id": 26
+					},
+					{
+						"account_id": 101561479,
+						"player_slot": 4,
+						"hero_id": 42
+					},
+					{
+						"account_id": 110331376,
+						"player_slot": 128,
+						"hero_id": 89
+					},
+					{
+						"account_id": 97422536,
+						"player_slot": 129,
+						"hero_id": 13
+					},
+					{
+						"account_id": 137260795,
+						"player_slot": 130,
+						"hero_id": 27
+					},
+					{
+						"account_id": 114438371,
+						"player_slot": 131,
+						"hero_id": 47
+					},
+					{
+						"account_id": 147334152,
+						"player_slot": 132,
+						"hero_id": 8
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 613093933,
+				"match_seq_num": 557494603,
+				"start_time": 1397665466,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 99766526,
+						"player_slot": 0,
+						"hero_id": 8
+					},
+					{
+						"account_id": 105165814,
+						"player_slot": 1,
+						"hero_id": 26
+					},
+					{
+						"account_id": 98716278,
+						"player_slot": 2,
+						"hero_id": 65
+					},
+					{
+						"account_id": 85628097,
+						"player_slot": 3,
+						"hero_id": 46
+					},
+					{
+						"account_id": 90609079,
+						"player_slot": 4,
+						"hero_id": 89
+					},
+					{
+						"account_id": 77592742,
+						"player_slot": 128,
+						"hero_id": 97
+					},
+					{
+						"account_id": 124234115,
+						"player_slot": 129,
+						"hero_id": 87
+					},
+					{
+						"account_id": 83788626,
+						"player_slot": 130,
+						"hero_id": 41
+					},
+					{
+						"account_id": 158200755,
+						"player_slot": 131,
+						"hero_id": 3
+					},
+					{
+						"account_id": 113289926,
+						"player_slot": 132,
+						"hero_id": 47
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 611833785,
+				"match_seq_num": 556337091,
+				"start_time": 1397587037,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 101508699,
+						"player_slot": 0,
+						"hero_id": 22
+					},
+					{
+						"account_id": 99189257,
+						"player_slot": 1,
+						"hero_id": 67
+					},
+					{
+						"account_id": 92405427,
+						"player_slot": 2,
+						"hero_id": 96
+					},
+					{
+						"account_id": 139918020,
+						"player_slot": 3,
+						"hero_id": 64
+					},
+					{
+						"account_id": 68350354,
+						"player_slot": 4,
+						"hero_id": 50
+					},
+					{
+						"account_id": 103361409,
+						"player_slot": 128,
+						"hero_id": 76
+					},
+					{
+						"account_id": 107757576,
+						"player_slot": 129,
+						"hero_id": 34
+					},
+					{
+						"account_id": 75257735,
+						"player_slot": 130,
+						"hero_id": 9
+					},
+					{
+						"account_id": 118971090,
+						"player_slot": 131,
+						"hero_id": 88
+					},
+					{
+						"account_id": 86891802,
+						"player_slot": 132,
+						"hero_id": 86
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 611826118,
+				"match_seq_num": 556295835,
+				"start_time": 1397586642,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 113847466,
+						"player_slot": 0,
+						"hero_id": 13
+					},
+					{
+						"account_id": 74836386,
+						"player_slot": 1,
+						"hero_id": 91
+					},
+					{
+						"account_id": 59323495,
+						"player_slot": 2,
+						"hero_id": 46
+					},
+					{
+						"account_id": 90115454,
+						"player_slot": 3,
+						"hero_id": 89
+					},
+					{
+						"account_id": 105003260,
+						"player_slot": 4,
+						"hero_id": 93
+					},
+					{
+						"account_id": 77592742,
+						"player_slot": 128,
+						"hero_id": 7
+					},
+					{
+						"account_id": 83788626,
+						"player_slot": 129,
+						"hero_id": 69
+					},
+					{
+						"account_id": 124234115,
+						"player_slot": 130,
+						"hero_id": 75
+					},
+					{
+						"account_id": 158200755,
+						"player_slot": 131,
+						"hero_id": 5
+					},
+					{
+						"account_id": 110737534,
+						"player_slot": 132,
+						"hero_id": 62
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 611814940,
+				"match_seq_num": 556298362,
+				"start_time": 1397586330,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 105984200,
+						"player_slot": 0,
+						"hero_id": 63
+					},
+					{
+						"account_id": 113827944,
+						"player_slot": 1,
+						"hero_id": 9
+					},
+					{
+						"account_id": 91930839,
+						"player_slot": 2,
+						"hero_id": 87
+					},
+					{
+						"account_id": 90976802,
+						"player_slot": 3,
+						"hero_id": 86
+					},
+					{
+						"account_id": 101561479,
+						"player_slot": 4,
+						"hero_id": 8
+					},
+					{
+						"account_id": 97795495,
+						"player_slot": 128,
+						"hero_id": 31
+					},
+					{
+						"account_id": 7932121,
+						"player_slot": 129,
+						"hero_id": 47
+					},
+					{
+						"account_id": 96433579,
+						"player_slot": 130,
+						"hero_id": 88
+					},
+					{
+						"account_id": 59839587,
+						"player_slot": 131,
+						"hero_id": 91
+					},
+					{
+						"account_id": 87604913,
+						"player_slot": 132,
+						"hero_id": 98
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 611730182,
+				"match_seq_num": 556237943,
+				"start_time": 1397582301,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 105984200,
+						"player_slot": 0,
+						"hero_id": 43
+					},
+					{
+						"account_id": 113827944,
+						"player_slot": 1,
+						"hero_id": 9
+					},
+					{
+						"account_id": 91930839,
+						"player_slot": 2,
+						"hero_id": 37
+					},
+					{
+						"account_id": 101561479,
+						"player_slot": 3,
+						"hero_id": 42
+					},
+					{
+						"account_id": 90976802,
+						"player_slot": 4,
+						"hero_id": 86
+					},
+					{
+						"account_id": 60941718,
+						"player_slot": 128,
+						"hero_id": 38
+					},
+					{
+						"account_id": 63644442,
+						"player_slot": 129,
+						"hero_id": 77
+					},
+					{
+						"account_id": 54374135,
+						"player_slot": 130,
+						"hero_id": 27
+					},
+					{
+						"account_id": 101805273,
+						"player_slot": 131,
+						"hero_id": 13
+					},
+					{
+						"account_id": 61102769,
+						"player_slot": 132,
+						"hero_id": 90
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 610504463,
+				"match_seq_num": 555107360,
+				"start_time": 1397507025,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 52284560,
+						"player_slot": 0,
+						"hero_id": 96
+					},
+					{
+						"account_id": 142039241,
+						"player_slot": 1,
+						"hero_id": 41
+					},
+					{
+						"account_id": 133078711,
+						"player_slot": 2,
+						"hero_id": 20
+					},
+					{
+						"account_id": 121002138,
+						"player_slot": 3,
+						"hero_id": 68
+					},
+					{
+						"account_id": 48815799,
+						"player_slot": 4,
+						"hero_id": 43
+					},
+					{
+						"account_id": 118006771,
+						"player_slot": 128,
+						"hero_id": 34
+					},
+					{
+						"account_id": 125736721,
+						"player_slot": 129,
+						"hero_id": 28
+					},
+					{
+						"account_id": 91285897,
+						"player_slot": 130,
+						"hero_id": 5
+					},
+					{
+						"account_id": 86816477,
+						"player_slot": 131,
+						"hero_id": 57
+					},
+					{
+						"account_id": 66897899,
+						"player_slot": 132,
+						"hero_id": 47
+					}
+				]
+				
+			},
+			{
+				"series_id": 0,
+				"series_type": 0,
+				"match_id": 610425366,
+				"match_seq_num": 555036655,
+				"start_time": 1397502237,
+				"lobby_type": 1,
+				"players": [
+					{
+						"account_id": 106254285,
+						"player_slot": 0,
+						"hero_id": 1
+					},
+					{
+						"account_id": 87604913,
+						"player_slot": 1,
+						"hero_id": 29
+					},
+					{
+						"account_id": 59839587,
+						"player_slot": 2,
+						"hero_id": 38
+					},
+					{
+						"account_id": 96433579,
+						"player_slot": 3,
+						"hero_id": 50
+					},
+					{
+						"account_id": 97795495,
+						"player_slot": 4,
+						"hero_id": 68
+					},
+					{
+						"account_id": 101508699,
+						"player_slot": 128,
+						"hero_id": 74
+					},
+					{
+						"account_id": 99189257,
+						"player_slot": 129,
+						"hero_id": 9
+					},
+					{
+						"account_id": 123211133,
+						"player_slot": 130,
+						"hero_id": 77
+					},
+					{
+						"account_id": 134972763,
+						"player_slot": 131,
+						"hero_id": 3
+					},
+					{
+						"account_id": 68350354,
+						"player_slot": 132,
+						"hero_id": 27
+					}
+				]
+				
+			}
+		]
+		
+	}
+}
