@@ -4,6 +4,7 @@ require 'nokogiri'
 require 'json'
 require 'active_support'
 require './Classes/Match.rb'
+require './Classes/Player.rb'
 require './Classes/LeagueBansPicks.rb'
 require './Classes/AnalyzeMatchById.rb'
 require './Classes/Downloader.rb'
@@ -41,25 +42,37 @@ class Main
 
   #projet zapasy a pridat z nich teamy do tabulky teamu
   #->team id, team name, players(5+),win/loss
-  #@heroes = Arra
 
   @bans = Array.new
   teams = Teams.new
 
 
+  test_team_A = Team.new(1234,'A')
+  test_team_B = Team.new(1234,'A')
+
+
+  teams.addTeam test_team_A
+  teams.addTeam test_team_B
+
   @all_matches_of_league.each { |match|
     #puts match.to_s
 
     team_radiant = Team.new(match['result']['radiant_team_id'], match['result']['radiant_name'])
+    teams.addTeam(team_radiant)
+    radiant_player_1 = Player.new match['result']['players'][0]['account_id'].to_i
+    radiant_player_2 = Player.new match['result']['players'][0]['account_id'].to_i
+    team_radiant.addPlayer(radiant_player_1)
+    team_radiant.addPlayer(radiant_player_2)
+    team_radiant.addPlayer(Player.new(match['result']['players'][1]['account_id'].to_i))
+
     puts team_radiant.inspect
+    puts 'XXX'
 
     team_dire = Team.new(match['result']['dire_team_id'], match['result']['dire_name'])
+    teams.addTeam(team_dire)
     puts team_dire.inspect
 
-
-
-
-
+    puts "Teams: " + teams.getTeamsIds.to_s
 
     puts "Team Radiant Players: "
     puts match['result']['players'][0]['account_id']
