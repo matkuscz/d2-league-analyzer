@@ -23,6 +23,10 @@ class Teams
 
   end
 
+  def getTeams
+    @teams
+  end
+
   private
   def addOnlyUnique team
     known_team = false
@@ -46,5 +50,4 @@ class Teams
     end
     return false
   end
-
 end
