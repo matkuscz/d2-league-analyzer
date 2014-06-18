@@ -10,6 +10,27 @@ require './Classes/AnalyzeMatchById.rb'
 require './Classes/Downloader.rb'
 
 class Main
+
+  ##############################################
+  ##                                          ##
+  ##          Dota 2 League Analyzer          ##
+  ##                                          ##
+  ##                 Author                   ##
+  ##                --------                  ##
+  ##              Tomas Matejka               ##
+  ##                -=mAtKa=                  ##
+  ##                                          ##
+  ##############################################
+
+
+  # ToDo:
+  # <Empty>
+  #
+  # Hints & Tips:
+  #
+  # Nasat jmena hracu z webu ligy.
+
+
   OpenURI::Buffer.send :remove_const, 'StringMax'
   OpenURI::Buffer.const_set 'StringMax', 0
 
@@ -167,6 +188,9 @@ class Main
   @teams.getTeams.each { |team| puts team.inspect }
 
   #priradime hracum jmena, podle aktualniho nicku na Steamu
+  #teda se o to spis jenom pokusime
+  #konkretne ted to nefunguje
+  #mozna by to slo vysosat z webovek ligy
   @teams.getTeams.each do |team|
     team.getPlayers.each do |player|
       player.initializePlayerData
